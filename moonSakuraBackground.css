@@ -1,3 +1,5 @@
+/* 1st July */
+
 body{
     background-color: black;
 }
@@ -787,7 +789,6 @@ body{
     transform: rotate(80deg);
     z-index: 5
 }
-
 .rectangle60{
     position: absolute;
     background-color: rgb(249, 249, 245);
@@ -886,6 +887,338 @@ body{
     transform: rotate(105deg);
     z-index: 5
 }
+.rectangle69{
+    position: absolute;
+    background-color: rgb(243, 245, 234);
+    height: 34px;
+    width: 16px;
+    left: 72%;
+    top: 61%;
+    border-radius: 60% 60% 80% 70%;
+    transform: rotate(-125deg);
+    z-index: 5
+}
+.rectangle70{
+    position: absolute;
+    background-color: rgb(243, 245, 234);
+    height: 17px;
+    width: 8px;
+    left: 67%;
+    top: 78%;
+    border-radius: 60% 60% 80% 70%;
+    transform: rotate(-125deg);
+    z-index: 5
+}
+.rectangle71{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height: 11px;
+    width: 8px;
+    left: 81%;
+    top: 54.5%;
+    border-radius: 80% 80% 80% 90%;
+    z-index: 5
+}
+.rectangle72{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height: 11px;
+    width: 8px;
+    left: 72%;
+    top: 17%;
+    border-radius: 80% 80% 80% 90%;
+    transform: rotate(-45deg);
+    z-index: 5
+}
+.rectangle73{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height: 8px;
+    width: 6px;
+    left: 51%;
+    top: 23%;
+    border-radius: 80% 80% 80% 90%;
+    z-index: 5
+}
+.rectangle74{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height: 8px;
+    width: 6px;
+    left: 51%;
+    top: 23%;
+    border-radius: 80% 80% 80% 90%;
+    z-index: 5
+}
+.rectangle75{
+    position: absolute;
+    background-color: rgb(230, 232, 207);
+    height: 7px;
+    width: 20px;
+    left: 82%;
+    top: 25%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(20deg);
+    transform: rotate(50deg);
+    z-index: 6
+}
+.rectangle76{
+    position: absolute;
+    background-color: rgb(236, 237, 226);
+    height: 7px;
+    width: 20px;
+    left: 82%;
+    top: 25%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(20deg);
+    transform: rotate(30deg);
+    z-index: 5
+}
+.rectangle77{
+    position: absolute;
+    background-color: rgb(222, 227, 203);
+    height: 2px;
+    width: 5px;
+    left: 86%;
+    top: 25%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(20deg);
+    transform: rotate(80deg);
+    z-index: 7
+}
+.rectangle78{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height: 3px;
+    width: 30px;
+    left: 77%;
+    top: 18%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(60deg);
+    transform: rotate(50deg);
+    z-index: 7
+}
+.rectangle79{
+    position: absolute;
+    background-color: rgb(234, 236, 217);
+    height: 10px;
+    width: 30px;
+    left: 61%;
+    top: 9%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(60deg);
+    transform: rotate(35deg);
+    z-index: 30
+}
+.rectangle80{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    height:4px;
+    width: 8px;
+    left: 83%;
+    top: 45%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(60deg);
+    transform: rotate(-35deg);
+    z-index: 5
+}
+.rectangle81{
+    position: absolute;
+    background-color: rgb(243, 245, 234);
+    height: 7px;
+    width: 20px;
+    left: 84%;
+    top: 51%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(60deg);
+    transform: rotate(-80deg);
+    z-index: 20
+}
+.rectangle82{
+    position: absolute;
+    background-color: rgb(243, 245, 234);
+    height: 3px;
+    width: 6px;
+    left: 91%;
+    top: 47%;
+    border-radius: 40% 80% 40% 90%;
+    transform: skew(60deg);
+    transform: rotate(-70deg);
+    z-index: 20
+}
+.rectangle83{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(236, 236, 220);
+    height: 6px;
+    width: 15px;
+    border-radius: 100% 40% 50% 69%;
+    transform: skew(-20deg);
+    transform: rotate(220deg);
+    left: 7%;
+    top: 73%;
+}
+.rectangle84{
+    position: absolute;
+    z-index: 20;
+    background-color: rgb(249, 249, 245);
+    height: 6px;
+    width: 2px;
+    border-radius: 100% 40% 50% 69%;
+    transform: skew(-20deg);
+    transform: rotate(0deg);
+    left: 3%;
+    top: 53%;
+}
+.rectangle85{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(243, 245, 234);
+    height: 10px;
+    width: 15px;
+    border-radius: 100% 40% 50% 100%;
+    transform: skew(-20deg);
+    transform: rotate(20deg);
+    left: 3.5%;
+    top: 50%;
+}
+.rectangle86{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(249, 249, 245);
+    height: 7px;
+    width: 3px;
+    border-radius: 100% 40% 50% 100%;
+    transform: skew(-20deg);
+    transform: rotate(40deg);
+    left: 4.5%;
+    top: 41%;
+}
+.rectangle87{
+    position: absolute;
+    z-index: 6;
+    background-color: rgb(236, 234, 223);
+    height: 7px;
+    width: 3px;
+    border-radius: 100% 40% 50% 100%;
+    transform: skew(-20deg);
+    transform: rotate(20deg);
+    left: 5%;
+    top: 42%;
+}
+.rectangle88{
+    position: absolute;
+    z-index: 10;
+    background-color: rgb(230, 232, 207);
+    height: 15px;
+    width: 6px;
+    border-radius: 100% 40% 50% 100%;
+    transform: skew(-20deg);
+    transform: rotate(-25deg);
+    left: 5.5%;
+    top: 60%;
+}
+.rectangle89{
+    position: absolute;
+    z-index: 10;
+    background-color: rgb(230, 232, 207);
+    height: 6px;
+    width: 6px;
+    border-radius: 100% 100% 70% 100%;
+    transform: skew(-20deg);
+    transform: rotate(-25deg);
+    left: 12%;
+    top: 55%;
+}
+.rectangle90{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    left: 52.5%;
+    top: 57%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-90deg);
+}
+.rectangle91{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(249, 249, 245);
+    width: 9px;
+    height: 4px;
+    left: 55%;
+    top: 60%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-120deg);
+}
+.rectangle92{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(237, 241, 224);
+    width: 10px;
+    height: 6px;
+    left: 59%;
+    top: 62%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-90deg);
+}
+.rectangle93{
+    position: absolute;
+    z-index: 4;
+    background-color: rgb(237, 241, 224);
+    width: 6px;
+    height: 3px;
+    left: 61%;
+    top: 67%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-90deg);
+}
+.rectangle94{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(237, 241, 224);
+    width: 9px;
+    height: 6px;
+    left: 50%;
+    top: 68%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-90deg);
+}
+.rectangle95{
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(243, 245, 235);
+    width: 6px;
+    height: 2px;
+    left: 51%;
+    top: 69%;
+    border-radius: 90% 90% 40% 40%;
+    transform: rotate(-90deg);
+}
+.rectangle96{
+    
+}
+.rectangle97{
+    
+}
+.rectangle98{
+    
+}
+.rectangle99{
+    
+}
+.rectangle100{
+    
+}
+.rectangle101{
+    
+}
+.rectangle102{
+    
+}
+
+
 .top-frame{
     position: absolute;
     background-color: black;
