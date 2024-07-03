@@ -1198,21 +1198,71 @@ body{
 }
 .rectangle96{
     position: absolute;
+    z-index: 5;
+    background-color: rgb(232, 232, 220);
+    width: 19px;
+    height: 4px;
+    border-radius: 70% 70% 70% 70%;
+    left: 37%;
+    top: 94.8%;
+    transform: skew(20deg);
+    transform: rotate(10deg);
 }
 .rectangle97{
-    
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(232, 232, 220);
+    width: 10px;
+    height: 4px;
+    border-radius: 70% 70% 70% 70%;
+    left: 23%;
+    top: 90%;
+    transform: skew(20deg);
+    transform: rotate(32deg);
 }
 .rectangle98{
-    
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(232, 232, 220);
+    width: 7px;
+    height: 3px;
+    border-radius: 70% 70% 70% 70%;
+    left: 26%;
+    top: 93%;
+    transform: skew(20deg);
+    transform: rotate(32deg);
 }
 .rectangle99{
-    
+    position: absolute;
+    z-index: 20;
+    background-color: rgb(249, 249, 245);
+    width: 14px;
+    height: 6px;
+    border-radius: 70% 40% 100% 70%;
+    left: 32%;
+    top: 62%;
 }
 .rectangle100{
-    
+    position: absolute;
+    z-index: 20;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 4px;
+    border-radius: 70% 40% 100% 70%;
+    left: 34%;
+    top: 64%;
+    transform: rotate(90deg);
 }
 .rectangle101{
-    
+    position: absolute;
+    z-index: 20;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 4px;
+    border-radius: 70% 40% 100% 70%;
+    left: 31%;
+    top: 64%;
+    transform: rotate(90deg);
 }
 .rectangle102{
     
