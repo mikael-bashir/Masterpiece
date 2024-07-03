@@ -875,6 +875,17 @@ body{
     transform: rotate(90deg);
     z-index: 5
 }
+.rectangle68{
+    position: absolute;
+    background-color: rgb(243, 245, 234);
+    height: 30px;
+    width: 16px;
+    left:28%;
+    top: 81%;
+    border-radius: 60% 60% 80% 70%;
+    transform: rotate(105deg);
+    z-index: 5
+}
 .top-frame{
     position: absolute;
     background-color: black;
