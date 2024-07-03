@@ -1265,8 +1265,32 @@ body{
     transform: rotate(90deg);
 }
 .rectangle102{
-    
+    position: absolute;
+    z-index: 5;
+    background-color: rgb(234, 236, 217);
+    width: 7px;
+    height: 5px;
+    border-radius: 70% 40% 40% 100%;
+    left: 12%;
+    top: 26%;
 }
+
+/* the following are further refinements to the look of the moon */
+
+.detail1{
+    position: absolute;
+    z-index: 20;
+    background-color: black;
+    width: 7px;
+    height: 5px;
+    border-radius: 70% 40% 40% 100%;
+    left: 12%;
+    top: 26%;
+}
+
+
+
+
 
 
 .top-frame{
