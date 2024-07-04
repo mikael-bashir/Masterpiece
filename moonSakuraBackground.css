@@ -1359,7 +1359,7 @@ body{
 }
 .detail8{
     position: absolute;
-    background-color: black;
+    background-color: rgb(243, 245, 235);
     width: 16px;
     height: 9px;
     border-radius: 60% 50% 70% 100%; 
@@ -1369,9 +1369,210 @@ body{
     transform: skew(60deg);
     transform: rotate(140deg);
 }
-
-
-
+.detail19{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 20px;
+    height: 6px;
+    border-radius: 60% 50% 70% 100%; 
+    left: 49%;
+    top: 94%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(190deg);
+}
+.detail20{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 10px;
+    height: 10px;
+    border-radius: 60% 80% 70% 100%; 
+    left: 62%;
+    top: 84%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(230deg);
+}
+.detail21{
+    position: absolute;
+    background-color: rgb(234, 240, 226);
+    width: 15px;
+    height: 4px;
+    border-radius: 60% 80% 70% 100%; 
+    left: 62%;
+    top: 92.5%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(-25deg);
+}
+/* these are details near the top */
+.detail22{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 9px;
+    height: 4px;
+    border-radius: 90% 70% 70% 50%;
+    left: 48%;
+    top: 8%;
+    z-index: 5;
+    transform: skew(10deg);
+    transform: rotate(95deg);
+}
+.detail23{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    border-left: 7px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid rgb(249, 249, 245);
+    border-radius: 90% 100% 100% 100%;
+    left: 51.5%;
+    top: 10%;
+    z-index: 5;
+    transform: skew(10deg);
+}
+.detail24{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 5px;
+    height: 3px;
+    border-radius: 90% 70% 70% 50%;
+    left: 51%;
+    top: 7%;
+    z-index: 5;
+    transform: rotate(95deg);
+}
+.detail25{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 5px;
+    height: 3px;
+    border-radius: 90% 70% 70% 50%;
+    left: 53%;
+    top: 10%;
+    z-index: 5;
+    transform: rotate(95deg);
+}
+.detail26{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 5px;
+    height: 2px;
+    border-radius: 90% 70% 70% 50%;
+    left: 57%;
+    top: 12%;
+    z-index: 5;
+    transform: rotate(-10deg)
+}
+.detail27{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 5px;
+    height: 2px;
+    border-radius: 90% 70% 70% 50%;
+    left: 54%;
+    top: 12%;
+    z-index: 5;
+    transform: rotate(-45deg)
+}
+.detail28{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 5px;
+    height: 5px;
+    border-radius: 90% 70% 70% 50%;
+    left: 47%;
+    top: 12%;
+    z-index: 5;
+    transform: rotate(-45deg)
+}
+.detail29{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 3px;
+    height: 2px;
+    border-radius: 90% 40% 70% 50%;
+    left: 48%;
+    top: 11.5%;
+    z-index: 5;
+    transform: rotate(-90deg);
+}
+.detail30{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 3px;
+    height: 2px;
+    border-radius: 90% 40% 70% 50%;
+    left: 49%;
+    top: 12.5%;
+    z-index: 5;
+}
+.detail31{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 3px;
+    height: 2px;
+    border-radius: 90% 40% 70% 50%;
+    left: 49.5%;
+    top: 11.5%;
+    z-index: 5;
+    transform: rotate(-45deg);
+}
+.detail32{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 6px;
+    height: 1px;
+    border-radius: 90% 40% 70% 50%;
+    left: 50.4%;
+    top: 12.9%;
+    z-index: 5;
+    transform: rotate(-45deg);
+}
+.detail33{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 4px;
+    height: 3px;
+    border-radius: 90% 40% 70% 50%;
+    left: 51%;
+    top: 13.6%;
+    z-index: 5;
+    transform: rotate(-110deg);
+}
+.detail34{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 59%;
+    top: 6%;
+    z-index: 8;
+    transform: rotate(-130deg);
+}
+.detail35{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 56.5%;
+    top: 4.5%;
+    z-index: 8;
+    transform: rotate(-150deg);
+}
+.detail36{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 60.5%;
+    top: 9.5%;
+    z-index: 8;
+    transform: rotate(-70deg);
+}
 
 
 .top-frame{
