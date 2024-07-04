@@ -1278,16 +1278,97 @@ body{
 /* the following are further refinements to the look of the moon */
 
 .detail1{
-    position: absolute;
+    position: absolute;   
+    background-color: rgb(243, 245, 234);
+    width: 5px;
+    height: 7px;
+    border-radius: 100% 40% 70% 100%;
+    left: 30%;
+    top: 24%;
     z-index: 20;
-    background-color: black;
-    width: 7px;
-    height: 5px;
-    border-radius: 70% 40% 40% 100%;
-    left: 12%;
-    top: 26%;
 }
-
+.detail2{
+    position: absolute;   
+    background-color: rgb(243, 245, 234);
+    width: 3px;
+    height: 7px;
+    border-radius: 100% 40% 70% 100%;
+    left: 31%;
+    top: 21%;
+    z-index: 5;
+}
+.detail3{
+    position: absolute;   
+    background-color: rgb(249, 249, 245);
+    width: 13px;
+    height: 10px;
+    border-radius: 20% 20% 20% 100%; 
+    left: 22%;
+    top: 14%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(40deg);
+}
+.detail4{
+    position: absolute;   
+    background-color: rgb(249, 249, 245);
+    width: 13px;
+    height: 10px;
+    border-radius: 20% 20% 20% 100%; 
+    left: 25%;
+    top: 15%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(180deg);
+}
+.detail5{
+    position: absolute;   
+    background-color: rgb(249, 249, 245);
+    width: 13px;
+    height: 10px;
+    border-radius: 20% 20% 20% 100%; 
+    left: 75%;
+    top: 15%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(180deg);
+}
+.detail6{
+    position: absolute;   
+    background-color: rgb(243, 245, 235);
+    width: 11px;
+    height: 9px;
+    border-radius: 60% 50% 70% 100%; 
+    left: 82%;
+    top: 60%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(180deg);
+}
+.detail7{
+    position: absolute;   
+    background-color: rgb(243, 245, 235);
+    width: 16px;
+    height: 9px;
+    border-radius: 60% 50% 70% 100%; 
+    left: 76%;
+    top: 62%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(140deg);
+}
+.detail8{
+    position: absolute;
+    background-color: black;
+    width: 16px;
+    height: 9px;
+    border-radius: 60% 50% 70% 100%; 
+    left: 76%;
+    top: 62%;
+    z-index: 5;
+    transform: skew(60deg);
+    transform: rotate(140deg);
+}
 
 
 
