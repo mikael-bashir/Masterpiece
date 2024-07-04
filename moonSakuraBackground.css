@@ -1573,6 +1573,72 @@ body{
     z-index: 8;
     transform: rotate(-70deg);
 }
+.detail37{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 69%;
+    top: 14.5%;
+    z-index: 40;
+    transform: rotate(-120deg);
+}
+.detail38{
+    position: absolute;
+    background-color: rgb(249, 249, 245);
+    width: 7px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 70.5%;
+    top: 16.5%;
+    z-index: 40;
+    transform: rotate(-100deg);
+}
+.detail39{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 18px;
+    height: 5px;
+    border-radius: 90% 40% 70% 50%;
+    left: 76.5%;
+    top: 23.5%;
+    z-index: 5;
+    transform: rotate(-125deg);
+}
+.detail40{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 7px;
+    height: 4px;
+    border-radius: 90% 40% 70% 50%;
+    left: 79.5%;
+    top: 24.5%;
+    z-index: 5;
+    transform: rotate(-125deg);
+}
+.detail41{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 7px;
+    height: 4px;
+    border-radius: 90% 40% 70% 50%;
+    left: 83%;
+    top: 26.5%;
+    z-index: 20;
+    transform: rotate(-125deg);
+}
+.detail42{
+    position: absolute;
+    background-color: rgb(243, 245, 235);
+    width: 7px;
+    height: 4px;
+    border-radius: 90% 40% 70% 50%;
+    left: 80.5%;
+    top: 26%;
+    z-index: 20;
+    transform: rotate(-135deg);
+}
 
 
 .top-frame{
