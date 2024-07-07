@@ -1,4 +1,4 @@
-/* 1st July */
+/* beginning of 1st July */
 
 body{
     background-color: black;
@@ -1640,6 +1640,8 @@ body{
     transform: rotate(-135deg);
 }
 
+/* cloud 1 */
+
 .cloud1detail1{
     position: absolute;
     background-color: rgb(29, 34, 22);
@@ -2762,9 +2764,7 @@ body{
     z-index: 4;
 }
 
-
-
-
+/* end of 7th July */
 
 .top-frame{
     position: absolute;
