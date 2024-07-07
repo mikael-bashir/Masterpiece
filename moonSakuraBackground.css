@@ -10,12 +10,13 @@ body{
 }
 .frame{
     position: absolute;
-    left: 12%;
-    top: 10%;
+    left: 50%;
+    top: 60%;
     width: 1070px;
     height: 618px;
     background-color: blue;
     margin: 0px;
+    transform: translate(-50%, -60%);
 }
 .sky{
     position: absolute;
@@ -2765,6 +2766,10 @@ body{
 }
 
 /* end of 7th July */
+
+/* cloud 3 */
+
+
 
 .top-frame{
     position: absolute;
