@@ -1859,7 +1859,6 @@ body{
     transform: rotate(-110deg);
     z-index: 4
 }
-/* 34 39 26 */
 .cloud1detail29{
     position: absolute;
     background-color: rgb(34,39,26);
@@ -1915,7 +1914,6 @@ body{
     transform: rotate(-40deg);
     z-index: 4
 }
-/* dark part */
 .cloud1detail32{
     position: absolute;
     background-color: rgb(29, 34, 22);
@@ -2302,7 +2300,467 @@ body{
     z-index: 5;
 }
 
+/* cloud 2 */
 
+.cloud2detail1{
+    position: absolute;
+    background-color: rgb(46, 52, 35);
+    width: 60px;
+    height: 150px;
+    left: 20%;
+    top: -5%;
+    transform: rotate(20deg);
+    border-radius: 100% 50% 20% 70%;
+}
+.cloud2detail2{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 20px;
+    height: 10px;
+    left: 23%;
+    top: 15%;
+    transform: rotate(70deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail3{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 27px;
+    height: 15px;
+    left: 22%;
+    top: 12.5%;
+    transform: skew(50deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail4{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 27px;
+    height: 15px;
+    left: 22.5%;
+    top: 12%;
+    transform: skew(50deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail5{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 27px;
+    height: 15px;
+    left: 23.4%;
+    top: 10.6%;
+    transform: rotate(-30deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail6{
+    position: absolute;
+    background-color: rgb(53, 58, 39);
+    width: 20px;
+    height: 10px;
+    left: 23%;
+    top: 11%;
+    transform: rotate(-110deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail7{
+    position: absolute;
+    background-color: rgb(53, 58, 39);
+    width: 20px;
+    height: 10px;
+    left: 23.4%;
+    top: 9.6%;
+    transform: rotate(-25deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 3;
+}
+.cloud2detail8{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 20px;
+    height: 10px;
+    left: 21.4%;
+    top: 16%;
+    transform: rotate(45deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail9{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 20px;
+    height: 10px;
+    left: 22%;
+    top: 16.5%;
+    transform: rotate(45deg);
+    border-radius: 100% 50% 20% 70%;
+    z-index: 5;
+}
+.cloud2detail10{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 20px;
+    height: 20px;
+    left: 21.7%;
+    top: 17%;
+    border-radius: 20% 70% 20% 20%;
+    z-index: 5;
+}
+.cloud2detail11{
+    position: absolute;
+    background-color: rgb(21, 26, 16);
+    width: 18px;
+    height: 20px;
+    left: 19.7%;
+    top: 17%;
+    border-radius: 20% 70% 20% 20%;
+    z-index: 5;
+}
+.cloud2detail12{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 18px;
+    height: 16px;
+    left: 25%;
+    top: 4%;
+    border-radius: 20% 70% 20% 20%;
+    transform: rotate(-90deg);
+    z-index: 5;
+}
+.cloud2detail13{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 14px;
+    height: 30px;
+    left: 18.5%;
+    top: 11.5%;
+    border-radius: 70% 20% 20% 20%;
+    transform: rotate(30deg);
+    z-index: 5;
+}
+.cloud2detail14{
+    position: absolute;
+    background-color: rgb(24, 28, 19);
+    width: 2px;
+    height: 10px;
+    left: 19.9%;
+    top: 14%;
+    border-radius: 70% 20% 20% 20%;
+    transform: rotate(120deg);
+    z-index: 5;
+}
+.cloud2detail14{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 15px;
+    height: 30px;
+    left: 19.8%;
+    top: 12.2%;
+    border-radius: 70% 60% 40% 50%;
+    transform: skew(10deg);
+    z-index: 5;
+}
+.cloud2detail15{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 15px;
+    height: 30px;
+    left: 18.8%;
+    top: 8.2%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(10deg);
+    z-index: 4;
+}
+.cloud2detail15{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 15px;
+    height: 30px;
+    left: 18.8%;
+    top: 8.2%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(10deg);
+    z-index: 4;
+}
+.cloud2detail16{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 15px;
+    height: 30px;
+    left: 19.3%;
+    top: 9.2%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(10deg);
+    z-index: 4;
+}
+.cloud2detail17{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 9px;
+    height: 30px;
+    left: 19.6%;
+    top: 5.8%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(20deg);
+    z-index: 4;
+}
+.cloud2detail18{
+    position: absolute;
+    background-color: rgb(36, 41, 27);
+    width: 15px;
+    height: 33px;
+    left: 25.6%;
+    top: -1%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(30deg);
+    z-index: 4;
+}
+.cloud2detail19{
+    position: absolute;
+    background-color: rgb(41, 46, 32);
+    width: 15px;
+    height: 33px;
+    left: 20.2%;
+    top: 7%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(-20deg);
+    z-index: 3;
+}
+.cloud2detail20{
+    position: absolute;
+    background-color: rgb(41, 46, 32);
+    width: 7px;
+    height: 15px;
+    left: 20.7%;
+    top: 11.5%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(-20deg);
+    z-index: 3;
+}
+.cloud2detail21{
+    position: absolute;
+    background-color: rgb(54, 58, 41);
+    width: 7px;
+    height: 15px;
+    left: 25%;
+    top: 7.7%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(20deg);
+    z-index: 3;
+}
+.cloud2detail22{
+    position: absolute;
+    background-color: rgb(54, 58, 41);
+    width: 7px;
+    height: 15px;
+    left: 25%;
+    top: 7.7%;
+    border-radius: 70% 60% 40% 50%;
+    transform: rotate(20deg);
+    z-index: 3;
+}
+.cloud2detail23{
+    position: absolute;
+    background-color: rgb(33, 37, 25);
+    width: 25px;
+    height: 40px;
+    left: 26.5%;
+    top: -3%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(35deg);
+    z-index: 0;
+}
+.cloud2detail24{
+    position: absolute;
+    background-color: rgb(35, 40, 28);
+    width: 10px;
+    height: 22px;
+    left: 22.5%;
+    top: 15%;
+    border-radius: 70% 60% 100% 50%;
+    transform: skew(40deg);
+    z-index: 6;
+}
+.cloud2detail25{
+    position: absolute;
+    background-color: rgb(22, 25, 17);
+    width: 15px;
+    height: 30px;
+    left: 18%;
+    top: 9.5%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(10deg);
+    z-index: 2;
+}
+.cloud2detail26{
+    position: absolute;
+    background-color: rgb(37, 41, 28);
+    width: 10px;
+    height: 30px;
+    left: 19.5%;
+    top: 3.5%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(10deg);
+    z-index: 0;
+}
+.cloud2detail27{
+    position: absolute;
+    background-color: rgb(37, 41, 28);
+    width: 16px;
+    height: 25px;
+    left: 19.6%;
+    top: 2.5%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(10deg);
+    z-index: 2;
+}
+.cloud2detail28{
+    position: absolute;
+    background-color: rgb(29, 34, 22);
+    width: 13px;
+    height: 20px;
+    left: 19%;
+    top: 2%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(10deg);
+    z-index: 1;
+}
+.cloud2detail29{
+    position: absolute;
+    background-color: rgb(29, 34, 22);
+    width: 6px;
+    height: 12px;
+    left: 18.7%;
+    top: 3.4%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(45deg);
+    z-index: 1;
+}
+.cloud2detail30{
+    position: absolute;
+    background-color: rgb(38, 41, 29);
+    width: 6px;
+    height: 12px;
+    left: 19.4%;
+    top: 3%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(98deg);
+    z-index: 1;
+}
+.cloud2detail31{
+    position: absolute;
+    background-color: rgb(29, 34, 22);
+    width: 3px;
+    height: 12px;
+    left: 18.3%;
+    top: 1.8%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(20deg);
+    z-index: 1;
+}
+.cloud2detail32{
+    position: absolute;
+    background-color: rgb(29, 34, 22);
+    width: 4px;
+    height: 5px;
+    left: 18.7%;
+    top: 0.9%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(20deg);
+    z-index: 1;
+}
+.cloud2detail33{
+    position: absolute;
+    background-color: rgb(44, 50, 31);
+    width: 2px;
+    height: 3px;
+    left: 19.5%;
+    top: 16%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(20deg);
+    z-index: 6;
+}
+.cloud2detail34{
+    position: absolute;
+    background-color: rgb(38, 41, 29);
+    width: 15px;
+    height: 30px;
+    left: 21%;
+    top: -1%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(40deg);
+    z-index: 6;
+}
+.cloud2detail35{
+    position: absolute;
+    background-color: rgb(44, 46, 33);
+    width: 15px;
+    height: 30px;
+    left: 20.9%;
+    top: 1%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(20deg);
+    z-index: 5;
+}
+.cloud2detail36{
+    position: absolute;
+    background-color: rgb(44, 46, 33);
+    width: 15px;
+    height: 30px;
+    left: 20%;
+    top: 3%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(0deg);
+    z-index: 1;
+}
+.cloud2detail36{
+    position: absolute;
+    background-color: rgb(44, 46, 33);
+    width: 10px;
+    height: 12px;
+    left: 19.2%;
+    top: 15.2%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(20deg);
+    z-index: 6;
+}
+.cloud2detail37{
+    position: absolute;
+    background-color: rgb(29, 34, 22);
+    width: 15px;
+    height: 25px;
+    left: 15.2%;
+    top: 1%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(-35deg);
+    z-index: 6;
+}
+.cloud2detail38{
+    position: absolute;
+    background-color: rgb(23, 28, 18);
+    width: 15px;
+    height: 25px;
+    left: 15%;
+    top: 1.5%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(-35deg);
+    z-index: 4;
+}
+.cloud2detail39{
+    position: absolute;
+    background-color: rgb(23, 28, 18);
+    width: 3px;
+    height: 12px;
+    left: 15%;
+    top: -0.1%;
+    border-radius: 70% 60% 100% 50%;
+    transform: rotate(-25deg);
+    z-index: 4;
+}
 
 
 
@@ -2311,10 +2769,11 @@ body{
 .top-frame{
     position: absolute;
     background-color: black;
-    top: -154.5%;
-    left: -160%;
+    top: -32.4%;
+    left: -10%;
     width: 1200px;
     height: 200px;
+    z-index: 1000;
 }
 .right-frame{
     position: absolute;
