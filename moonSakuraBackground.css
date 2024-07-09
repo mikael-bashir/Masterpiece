@@ -3564,7 +3564,19 @@ body{
     border-radius: 40% 40% 80% 40%;
     z-index: 6;
 }
+ /* cloud 5 */
 
+ .cloud5detail1{
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 40%;
+    top: 80%;
+    background-color: rgb(23, 28, 18);
+    transform: rotate(-10deg);
+    border-radius: 40% 40% 80% 40%;
+    z-index: 5;
+ }
 
 
 
