@@ -3819,6 +3819,232 @@ body{
     z-index: 5;
  } 
 
+ .cloud5detail23{
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 79%;
+    top: 70%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-25deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail24{
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    left: 80.7%;
+    top: 71.9%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-50deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail25{
+    position: absolute;
+    width: 150px;
+    height: 25px;
+    left: 81%;
+    top: 70%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-23deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail26{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 83%;
+    top: 69.7%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail27{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 82.4%;
+    top: 71%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail28{
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 84%;
+    top: 69.7%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail29{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 91%;
+    top: 69%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-213deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail30{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 87.5%;
+    top: 72%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ } 
+ .cloud5detail31{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 88.5%;
+    top: 71.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail32{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 88.5%;
+    top: 67.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail33{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 91.5%;
+    top: 65.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail34{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    left: 73.5%;
+    top: 72%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail35{
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    left: 76.5%;
+    top: 74%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(-40deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail36{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    left: 72.5%;
+    top: 73%;
+    background-color: rgb(24, 28, 19);
+    transform: rotate(-203deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail37{
+    position: absolute;
+    width: 5px;
+    height: 3px;
+    left: 63.5%;
+    top: 80.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail38{
+    position: absolute;
+    width: 5px;
+    height: 3px;
+    left: 61.5%;
+    top: 78.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail39{
+    position: absolute;
+    width: 4px;
+    height: 3px;
+    left: 60.9%;
+    top: 78.5%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail40{
+    position: absolute;
+    width: 6px;
+    height: 3px;
+    left: 60.4%;
+    top: 79%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail41{
+    position: absolute;
+    width: 6px;
+    height: 5px;
+    left: 59.8%;
+    top: 79%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+ .cloud5detail42{
+    position: absolute;
+    width: 15px;
+    height: 8px;
+    left: 56%;
+    top: 77%;
+    background-color: rgb(19, 23, 14);
+    transform: rotate(0deg);
+    border-radius: 40% 40% 90% 60%;
+    z-index: 5;
+ }
+
+
+
+
+
+
 
 
 .top-frame{
