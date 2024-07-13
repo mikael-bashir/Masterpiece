@@ -4364,6 +4364,156 @@ body{
  }
 
 
+/* start of 13 July 
+
+cloud 7 (3 more, inclusively) */
+
+.cloud7detail1{
+    position: absolute;
+    width: 25px;
+    height: 5px;
+    left: 42.1%;
+    top: 95%;
+    background-color: rgb(35, 41, 29);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(2deg);
+    z-index: 5;
+}
+.cloud7detail2{
+    position: absolute;
+    width: 25px;
+    height: 5px;
+    left: 44.3%;
+    top: 95.7%;
+    background-color: rgb(35, 41, 29);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-10deg);
+    z-index: 5;
+}
+.cloud7detail3{
+    position: absolute;
+    width: 10px;
+    height: 5px;
+    left: 44.9%;
+    top: 95.4%;
+    background-color: rgb(35, 41, 29);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-10deg);
+    z-index: 5;
+}
+.cloud7detail4{
+    position: absolute;
+    width: 27px;
+    height: 12px;
+    left: 46.4%;
+    top: 94.2%;
+    background-color:rgb(35, 41, 29);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-10deg);
+    z-index: 5;
+}
+.cloud7detail5{
+    position: absolute;
+    width: 27px;
+    height: 7px;
+    left: 45%;
+    top: 92.7%;
+    background-color: rgb(19, 23, 14);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-100deg);
+    z-index: 5;
+}
+.cloud7detail6{
+    position: absolute;
+    width: 27px;
+    height: 7px;
+    left: 47.5%;
+    top: 95.5%;
+    background-color: rgb(19, 23, 14);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-70deg);
+    z-index: 5;
+}
+.cloud7detail7{
+    position: absolute;
+    width: 35px;
+    height: 10px;
+    left: 49%;
+    top: 94%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-00deg);
+    z-index: 5;
+}
+.cloud7detail8{
+    position: absolute;
+    width: 10px;
+    height: 4px;
+    left: 47.9%;
+    top: 95.2%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-10deg);
+    z-index: 5;
+}
+.cloud7detail9{
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    left: 49.3%;
+    top: 93.6%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-5deg);
+    z-index: 5;
+}
+.cloud7detail10{
+    position: absolute;
+    width: 35px;
+    height: 8px;
+    left: 48.8%;
+    top: 95.3%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-15deg);
+    z-index: 5;
+}
+.cloud7detail11{
+    position: absolute;
+    width: 35px;
+    height: 8px;
+    left: 49.9%;
+    top: 95.9%;
+    background-color: rgb(19, 23, 14);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-25deg);
+    z-index: 5;
+}
+.cloud7detail12{
+    position: absolute;
+    width: 9px;
+    height: 4px;
+    left: 51.5%;
+    top: 96%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(5deg);
+    z-index: 5;
+}
+.cloud7detail13{
+    position: absolute;
+    width: 15px;
+    height: 2px;
+    left: 51.8%;
+    top: 96%;
+    background-color: rgb(36, 41, 30);
+    border-radius: 80% 80% 50% 60%;
+    transform: rotate(-15deg);
+    z-index: 5;
+}
+
+
+
 
 .top-frame{
     position: absolute;
