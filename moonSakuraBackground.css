@@ -24,6 +24,7 @@ body{
     height: 100%;
     background-color: rgb(18, 23, 13);
 }
+
 .ring1{
     position: absolute;
     left: 19%;
@@ -4711,10 +4712,6 @@ cloud 7 (3 more, inclusively) */
     z-index: 8;
 }
 
-
-
-
-
 .top-frame{
     position: absolute;
     background-color: black;
@@ -4732,7 +4729,6 @@ cloud 7 (3 more, inclusively) */
     left: 100%;
     top: -5%;
     z-index: 1000;
-
 }
 .bottom-frame{
     position: absolute;
@@ -4741,6 +4737,15 @@ cloud 7 (3 more, inclusively) */
     left: -10%;
     width: 1200px;
     height: 200px;
+    z-index: 1000;
+}
+.left-frame{
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 680px;
+    left: -9.35%;
+    top: -5%;
     z-index: 1000;
 }
 
