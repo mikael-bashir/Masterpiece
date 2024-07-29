@@ -5182,3 +5182,499 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance395 infinite;
 }
+/* final details of frame 1/24 (5000 lines!!!) :)*/
+.treeDetail396{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87.5%;
+    left: 7.5%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(80deg);
+    z-index: 250;
+    animation: 3s dance396 infinite;
+}
+.treeDetail397{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87.4%;
+    left: 8.3%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(50deg);
+    z-index: 250;
+    animation: 3s dance397 infinite;
+}
+.treeDetail398{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87%;
+    left: 8.7%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(60deg);
+    z-index: 250;
+    animation: 3s dance398 infinite;
+}
+.treeDetail399{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87%;
+    left: 8.7%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance399 infinite;
+}
+.treeDetail400{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 86.7%;
+    left: 9%;
+    border-radius: 10% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance400 infinite;
+}
+.treeDetail401{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 86.7%;
+    left: 9%;
+    border-radius: 10% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance401 infinite;
+}
+.treeDetail402{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87.2%;
+    left: 9.3%;
+    border-radius: 10% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance402 infinite;
+}
+.treeDetail403{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 87.5%;
+    left: 9.5%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance403 infinite;
+}
+.treeDetail404{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 88.9%;
+    left: 9.9%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance404 infinite;
+}
+.treeDetail405{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 88.9%;
+    left: 9.4%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance405 infinite;
+}
+.treeDetail406{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 88.9%;
+    left: 10.4%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(150deg);
+    z-index: 250;
+    animation: 3s dance406 infinite;
+}
+.treeDetail407{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 88.9%;
+    left: 10.4%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance407 infinite;
+}
+.treeDetail408{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 89.6%;
+    left: 11%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance408 infinite;
+}
+.treeDetail409{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 90%;
+    left: 11%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance409 infinite;
+}
+.treeDetail410{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 90.5%;
+    left: 11.5%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance410 infinite;
+}
+.treeDetail411{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 91%;
+    left: 12%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance411 infinite;
+}
+.treeDetail412{
+    position: absolute;
+    width: 12px;
+    height: 15px;
+    background-color: rgb(133, 113, 117);
+    top: 91.2%;
+    left: 12.5%;
+    border-radius: 40% 20% 30% 30%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(105deg);
+    z-index: 250;
+    animation: 3s dance412 infinite;
+}
+.treeDetail413{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 91.2%;
+    left: 13%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(45deg);
+    z-index: 250;
+    animation: 3s dance413 infinite;
+}
+.treeDetail414{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 91.2%;
+    left: 13%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance414 infinite;
+}
+.treeDetail415{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 91.7%;
+    left: 13.9%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance415 infinite;
+}
+.treeDetail416{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 92.2%;
+    left: 14.2%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance416 infinite;
+}
+.treeDetail417{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 92.5%;
+    left: 14.5%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance417 infinite;
+}
+.treeDetail418{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 93%;
+    left: 14.4%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance418 infinite;
+}
+.treeDetail419{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 93.5%;
+    left: 14.4%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance419 infinite;
+}
+.treeDetail420{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 94%;
+    left: 14.4%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance420 infinite;
+}
+.treeDetail421{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 94.6%;
+    left: 14.2%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance421 infinite;
+}
+.treeDetail422{
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    background-color: rgb(133, 113, 117);
+    top: 95%;
+    left: 14.2%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(75deg);
+    z-index: 250;
+    animation: 3s dance422 infinite;
+}
+/* final little details near the top */
+.treeDetail423{
+    position: absolute;
+    width: 6px;
+    height: 18px;
+    background-color: rgb(109, 77, 90);
+    top: 62.2%;
+    left: 11.2%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(65deg);
+    z-index: 200;
+    animation: 3s dance423 infinite;
+}
+.treeDetail424{
+    position: absolute;
+    width: 6px;
+    height: 18px;
+    background-color: rgb(109, 77, 90);
+    top: 62.9%;
+    left: 10.8%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(45deg);
+    z-index: 200;
+    animation: 3s dance424 infinite;
+}
+.treeDetail425{
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    background-color: rgb(109, 77, 90);
+    top: 63.7%;
+    left: 10.3%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(45deg);
+    z-index: 200;
+    animation: 3s dance425 infinite;
+}
+.treeDetail426{
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    background-color: rgb(109, 77, 90);
+    top: 64%;
+    left: 10.3%;
+    border-radius: 40% 30% 30% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(45deg);
+    z-index: 200;
+    animation: 3s dance426 infinite;
+}
+.treeDetail427{
+    position: absolute;
+    width: 5px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 65.3%;
+    left: 10.3%;
+    border-radius: 10% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(45deg);
+    z-index: 200;
+    animation: 3s dance427 infinite;
+}
+.treeDetail428{
+    position: absolute;
+    width: 5px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 63.5%;
+    left: 10.5%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(25deg);
+    z-index: 200;
+    animation: 3s dance428 infinite;
+}
+.treeDetail429{
+    position: absolute;
+    width: 5px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 63.7%;
+    left: 10.2%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(25deg);
+    z-index: 200;
+    animation: 3s dance429 infinite;
+}
+.treeDetail430{
+    position: absolute;
+    width: 5px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 63.5%;
+    left: 10.35%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(25deg);
+    z-index: 200;
+    animation: 3s dance430 infinite;
+}
+.treeDetail431{
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 62%;
+    left: 12%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(0deg);
+    z-index: 200;
+    animation: 3s dance431 infinite;
+}
+.treeDetail432{
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 62.3%;
+    left: 11.8%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(20deg);
+    z-index: 200;
+    animation: 3s dance432 infinite;
+}
+.treeDetail433{
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    background-color: rgb(109, 77, 90);
+    top: 63%;
+    left: 10.2%;
+    border-radius: 20% 20% 20% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(100deg);
+    z-index: 200;
+    animation: 3s dance433 infinite;
+}
