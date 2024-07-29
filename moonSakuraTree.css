@@ -4623,3 +4623,562 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance353 infinite;
 }
+.treeDetail354{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 92%;
+    left: 0%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: skew(-40deg);
+    z-index: 300;
+    animation: 3s dance354 infinite;
+}
+.treeDetail355{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 92%;
+    left: 0%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(40deg);
+    z-index: 300;
+    animation: 3s dance355 infinite;
+}
+.treeDetail356{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 91.5%;
+    left: 0.7%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(20deg);
+    z-index: 300;
+    animation: 3s dance356 infinite;
+}
+.treeDetail357{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 91%;
+    left: 1.2%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(40deg);
+    z-index: 300;
+    animation: 3s dance357 infinite;
+}
+.treeDetail358{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 90.8%;
+    left: 1.5%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-40deg);
+    z-index: 300;
+    animation: 3s dance358 infinite;
+}
+.treeDetail359{
+    position: absolute;
+    width: 24px;
+    height: 19px;
+    background-color: rgb(97, 73, 83);
+    top: 91.2%;
+    left: 1.7%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-40deg);
+    z-index: 300;
+    animation: 3s dance359 infinite;
+}
+.treeDetail360{
+    position: absolute;
+    width: 24px;
+    height: 19px;
+    background-color: rgb(97, 73, 83);
+    top: 91.2%;
+    left: 1.7%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(40deg);
+    z-index: 300;
+    animation: 3s dance360 infinite;
+}
+.treeDetail361{
+    position: absolute;
+    width: 24px;
+    height: 19px;
+    background-color: rgb(97, 73, 83);
+    top: 91.5%;
+    left: 2%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(10deg);
+    z-index: 300;
+    animation: 3s dance361 infinite;
+}
+.treeDetail362{
+    position: absolute;
+    width: 24px;
+    height: 19px;
+    background-color: rgb(97, 73, 83);
+    top: 91.5%;
+    left: 2%;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(10deg);
+    z-index: 300;
+    animation: 3s dance362 infinite;
+}
+.treeDetail363{
+    position: absolute;
+    width: 20px;
+    height: 12px;
+    background-color: rgb(97, 73, 83);
+    top: 91.7%;
+    left: 3.7%;
+    border-radius: 10% 10% 10% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-70deg);
+    z-index: 300;
+    animation: 3s dance363 infinite;
+}
+.treeDetail364{
+    position: absolute;
+    width: 20px;
+    height: 12px;
+    background-color: rgb(97, 73, 83);
+    top: 91%;
+    left: 3.7%;
+    border-radius: 10% 10% 10% 40%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-80deg);
+    z-index: 300;
+    animation: 3s dance364 infinite;
+}
+.treeDetail365{
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 89%;
+    left: 4.5%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-80deg);
+    z-index: 300;
+    animation: 3s dance365 infinite;
+}
+.treeDetail366{
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 88.7%;
+    left: 4.9%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-100deg);
+    z-index: 300;
+    animation: 3s dance366 infinite;
+}
+.treeDetail367{
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    background-color: rgb(97, 73, 83);
+    top: 88.4%;
+    left: 5.6%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-110deg);
+    z-index: 300;
+    animation: 3s dance367 infinite;
+}
+.treeDetail368{
+    position: absolute;
+    width: 16px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 88.6%;
+    left: 6.3%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-90deg);
+    z-index: 300;
+    animation: 3s dance368 infinite;
+}
+.treeDetail369{
+    position: absolute;
+    width: 16px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 88%;
+    left: 6.3%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-110deg);
+    z-index: 300;
+    animation: 3s dance369 infinite;
+}
+.treeDetail370{
+    position: absolute;
+    width: 16px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 88%;
+    left: 7.3%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-110deg);
+    z-index: 300;
+    animation: 3s dance370 infinite;
+}
+.treeDetail371{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 87.2%;
+    left: 8.8%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-110deg);
+    z-index: 300;
+    animation: 3s dance371 infinite;
+}
+.treeDetail372{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 87.5%;
+    left: 8.8%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance372 infinite;
+}
+.treeDetail373{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 87.3%;
+    left: 8.6%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance373 infinite;
+}
+.treeDetail374{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 89.5%;
+    left: 8.6%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance374 infinite;
+}
+.treeDetail375{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 90.3%;
+    left: 8.9%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance375 infinite;
+}
+.treeDetail376{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 90.7%;
+    left: 9.3%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance376 infinite;
+}
+.treeDetail377{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 91.2%;
+    left: 10.3%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance377 infinite;
+}
+.treeDetail378{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 91.5%;
+    left: 10.3%;
+    border-radius: 10% 40% 10% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-175deg);
+    z-index: 300;
+    animation: 3s dance378 infinite;
+}
+.treeDetail379{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 92.3%;
+    left: 11.2%;
+    border-radius: 10% 40% 30% 10%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance379 infinite;
+}
+.treeDetail380{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 93.3%;
+    left: 11.6%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance380 infinite;
+}
+.treeDetail381{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 93.3%;
+    left: 12.3%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance381 infinite;
+}
+.treeDetail382{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 93.3%;
+    left: 12.3%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-85deg);
+    z-index: 300;
+    animation: 3s dance382 infinite;
+}
+.treeDetail383{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 93.3%;
+    left: 13%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-85deg);
+    z-index: 300;
+    animation: 3s dance383 infinite;
+}
+.treeDetail384{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94%;
+    left: 13.5%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-85deg);
+    z-index: 300;
+    animation: 3s dance384 infinite;
+}
+.treeDetail385{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94%;
+    left: 13.5%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-130deg);
+    z-index: 300;
+    animation: 3s dance385 infinite;
+}
+.treeDetail386{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94.9%;
+    left: 13.5%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance386 infinite;
+}
+.treeDetail387{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94.9%;
+    left: 12.5%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance387 infinite;
+}
+.treeDetail388{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94.9%;
+    left: 11.5%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance388 infinite;
+}
+.treeDetail389{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 94%;
+    left: 11%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance389 infinite;
+}
+.treeDetail390{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 93.5%;
+    left: 10.4%;
+    border-radius: 20% 40% 30% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance390 infinite;
+}
+.treeDetail391{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 92.5%;
+    left: 9.4%;
+    border-radius: 20% 10% 10% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance390 infinite;
+}
+.treeDetail391{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    background-color: rgb(97, 73, 83);
+    top: 92.5%;
+    left: 9.4%;
+    border-radius: 20% 10% 10% 20%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance391 infinite;
+}
+.treeDetail392{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 92.5%;
+    left: 7.4%;
+    border-radius: 20% 50% 50% 50%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-135deg);
+    z-index: 300;
+    animation: 3s dance392 infinite;
+}
+.treeDetail393{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 90.5%;
+    left: 5.4%;
+    border-radius: 20% 50% 50% 50%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-165deg);
+    z-index: 300;
+    animation: 3s dance393 infinite;
+}
+.treeDetail394{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 90.5%;
+    left: 6%;
+    border-radius: 20% 50% 50% 50%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(-165deg);
+    z-index: 300;
+    animation: 3s dance394 infinite;
+}
+.treeDetail395{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(97, 73, 83);
+    top: 90.5%;
+    left: 5%;
+    border-radius: 20% 50% 50% 50%;
+    box-shadow: 0 0 1px transparent;
+    transform: rotate(0deg);
+    z-index: 300;
+    animation: 3s dance395 infinite;
+}
