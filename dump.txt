@@ -1,0 +1,103 @@
+const fs = require('fs');
+
+// Save div states to a file
+function saveDivStates(fileName, dictionary) {
+    try {
+        const dictionaryString = JSON.stringify(dictionary, null, 2); // Pretty print for readability
+        fs.writeFileSync(fileName, dictionaryString, 'utf8');
+        console.log(`Div states saved to: ${fileName}`);
+    } catch (error) {
+        console.error(`Error saving div states: ${error.message}`);
+    }
+}
+
+// Load div states from a file
+function loadDivStates(fileName) {
+    try {
+        if (!fs.existsSync(fileName)) {
+            console.warn(`File not found: ${fileName}`);
+            return {};
+        }
+        const data = fs.readFileSync(fileName, 'utf8');
+        console.log(`Div states loaded from: ${fileName}`);
+        return JSON.parse(data);
+    } catch (error) {
+        console.error(`Error loading div states: ${error.message}`);
+        return {};
+    }
+}
+
+// Track state of a div after dragging
+function trackDivStateFromCustomDrag(div) {
+    const id = div.getAttribute('id');
+    const state = {
+        x: parseFloat(div.style.left) || 0,
+        y: parseFloat(div.style.top) || 0,
+        rotation: getRotationFromTransform(div)
+    };
+
+    divStates1[id] = state; // Update global state
+    console.log(`State tracked for ${id}:`, state);
+}
+
+// Extract rotation angle from a div's transform property
+function getRotationFromTransform(div) {
+    const transform = getComputedStyle(div).transform;
+    if (!transform || transform === 'none') return 0;
+
+    const values = transform.match(/matrix.*\((.+)\)/)?.[1].split(',') || [];
+    if (values.length < 6) return 0;
+
+    // Calculate rotation in degrees
+    const a = parseFloat(values[0]);
+    const b = parseFloat(values[1]);
+    const angle = Math.round(Math.atan2(b, a) * (180 / Math.PI));
+    return angle;
+}
+
+// Generate keyframes for a specific div
+function generateKeyframes(divId, divStates) {
+    let keyframes = `@keyframes ${divId}-animation {\n`;
+    const states = divStates.map((stateDict, index) => {
+        const state = stateDict[divId];
+        const percentage = (index / (divStates.length - 1)) * 100; // Spread keyframes evenly
+        return `${percentage}% {
+            transform: translate(${state.x}px, ${state.y}px) rotate(${state.rotation}deg);
+        }`;
+    }).join('\n');
+    keyframes += `${states}\n}`;
+    return keyframes;
+}
+
+// Generate and inject all keyframes
+function generateAndInjectKeyframes(divStatesArray) {
+    const styleSheet = document.createElement('style');
+    styleSheet.type = 'text/css';
+    styleSheet.innerText = Object.keys(divStatesArray[0]).map(divId =>
+        generateKeyframes(divId, divStatesArray)
+    ).join('\n');
+    document.head.appendChild(styleSheet);
+}
+
+// Apply animations to all draggable divs
+function applyAnimationsToDivs() {
+    document.querySelectorAll('.draggable').forEach(div => {
+        const divId = div.getAttribute('id');
+        div.style.animation = `${divId}-animation 3s infinite`;
+    });
+}
+
+// Save states for reuse
+function handleManualStates() {
+    const divState1 = { 'div1': { x: 10, y: 20, rotation: 45 } };
+    const divState2 = { 'div1': { x: 30, y: 40, rotation: 90 } };
+    const divStates = [divState1, divState2];
+    saveDivStates('divStates.json', divStates); // Save to file
+    generateAndInjectKeyframes(divStates);
+    applyAnimationsToDivs();
+}
+
+// Initialize and Load Saved Div States
+document.addEventListener('DOMContentLoaded', () => {
+    divStates1 = loadDivStates('divStates.json');
+});

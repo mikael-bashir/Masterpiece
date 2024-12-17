@@ -18,7 +18,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     transform: translateY(20px);
 }
 
-.treeDetail1{
+#treeDetail1{
     position: absolute;
     width: 10px;
     height: 10px;
@@ -30,7 +30,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 1000;
     animation: 3s dance1 infinite;
 }
-.treeDetail2{
+#treeDetail2{
     position: absolute;
     width: 10px;
     height: 10px;
@@ -42,7 +42,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance2 infinite;
 }
-.treeDetail3{
+#treeDetail3{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -55,7 +55,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance3 infinite;
 }
-.treeDetail4{
+#treeDetail4{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -68,7 +68,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance4 infinite;
 }
-.treeDetail5{
+#treeDetail5{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -81,7 +81,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance5 infinite;
 }
-.treeDetail6{
+#treeDetail6{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -94,7 +94,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance6 infinite;
 }
-.treeDetail7{
+#treeDetail7{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -107,7 +107,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance7 infinite;
 }
-.treeDetail8{
+#treeDetail8{
     position: absolute;
     width: 4px;
     height: 2px;
@@ -120,7 +120,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance8 infinite;
 }
-.treeDetail9{
+#treeDetail9{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -133,7 +133,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance9 infinite;
 }
-.treeDetail10{
+#treeDetail10{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -146,7 +146,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance10 infinite;
 }
-.treeDetail11{
+#treeDetail11{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -159,7 +159,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance11 infinite;
 }
-.treeDetail12{
+#treeDetail12{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -172,7 +172,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance12 infinite;
 }
-.treeDetail13{
+#treeDetail13{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -185,7 +185,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance13 infinite;
 }
-.treeDetail14{
+#treeDetail14{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -198,7 +198,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance14 infinite;
 }
-.treeDetail15{
+#treeDetail15{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -211,7 +211,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance15 infinite;
 }
-.treeDetail16{
+#treeDetail16{
     position: absolute;
     width: 4px;
     height: 2px;
@@ -224,7 +224,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance16 infinite;
 }
-.treeDetail17{
+#treeDetail17{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -237,7 +237,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance17 infinite;
 }
-.treeDetail18{
+#treeDetail18{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -250,7 +250,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance18 infinite;
 }
-.treeDetail19{
+#treeDetail19{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -263,7 +263,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance19 infinite;
 }
-.treeDetail20{
+#treeDetail20{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -276,7 +276,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance20 infinite;
 }
-.treeDetail21{
+#treeDetail21{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -289,7 +289,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance21 infinite;
 }
-.treeDetail22{
+#treeDetail22{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -302,7 +302,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance22 infinite;
 }
-.treeDetail23{
+#treeDetail23{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -315,7 +315,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance23 infinite;
 }
-.treeDetail24{
+#treeDetail24{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -328,7 +328,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance24 infinite;
 }
-.treeDetail25{
+#treeDetail25{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -341,7 +341,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance25 infinite;
 }
-.treeDetail26{
+#treeDetail26{
     position: absolute;
     width: 1px;
     height: 5px;
@@ -354,7 +354,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance26 infinite;
 }
-.treeDetail27{
+#treeDetail27{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -367,7 +367,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance27 infinite;
 }
-.treeDetail28{
+#treeDetail28{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -380,7 +380,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance28 infinite;
 }
-.treeDetail29{
+#treeDetail29{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -393,7 +393,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance29 infinite;
 }
-.treeDetail30{
+#treeDetail30{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -406,7 +406,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance30 infinite;
 }
-.treeDetail31{
+#treeDetail31{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -419,7 +419,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance31 infinite;
 }
-.treeDetail32{
+#treeDetail32{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -432,7 +432,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance32 infinite;
 }
-.treeDetail33{
+#treeDetail33{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -445,7 +445,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance33 infinite;
 }
-.treeDetail34{
+#treeDetail34{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -458,7 +458,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance34 infinite;
 }
-.treeDetail35{
+#treeDetail35{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -471,7 +471,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance35 infinite;
 }
-.treeDetail36{
+#treeDetail36{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -484,7 +484,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance36 infinite;
 }
-.treeDetail37{
+#treeDetail37{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -497,7 +497,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance37 infinite;
 }
-.treeDetail38{
+#treeDetail38{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -510,7 +510,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance38 infinite;
 }
-.treeDetail39{
+#treeDetail39{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -523,7 +523,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance39 infinite;
 }
-.treeDetail40{
+#treeDetail40{
     position: absolute;
     width: 5px;
     height: 12px;
@@ -536,7 +536,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance40 infinite;
 }
-.treeDetail41{
+#treeDetail41{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -549,7 +549,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance41 infinite;
 }
-.treeDetail42{
+#treeDetail42{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -562,7 +562,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance42 infinite;
 }
-.treeDetail43{
+#treeDetail43{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -575,7 +575,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance43 infinite;
 }
-.treeDetail44{
+#treeDetail44{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -588,7 +588,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance44 infinite;
 }
-.treeDetail45{
+#treeDetail45{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -601,7 +601,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance45 infinite;
 }
-.treeDetail46{
+#treeDetail46{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -614,7 +614,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance46 infinite;
 }
-.treeDetail47{
+#treeDetail47{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -627,7 +627,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance47 infinite;
 }
-.treeDetail48{
+#treeDetail48{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -640,7 +640,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance48 infinite;
 }
-.treeDetail49{
+#treeDetail49{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -653,7 +653,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance49 infinite;
 }
-.treeDetail50{
+#treeDetail50{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -666,7 +666,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance50 infinite;
 }
-.treeDetail51{
+#treeDetail51{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -679,7 +679,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance51 infinite;
 }
-.treeDetail52{
+#treeDetail52{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -692,7 +692,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance52 infinite;
 }
-.treeDetail53{
+#treeDetail53{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -705,7 +705,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance53 infinite;
 }
-.treeDetail54{
+#treeDetail54{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -718,7 +718,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance54 infinite;
 }
-.treeDetail55{
+#treeDetail55{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -731,7 +731,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance55 infinite;
 }
-.treeDetail56{
+#treeDetail56{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -744,7 +744,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance56 infinite;
 }
-.treeDetail57{
+#treeDetail57{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -757,7 +757,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance57 infinite;
 }
-.treeDetail58{
+#treeDetail58{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -770,7 +770,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance58 infinite;
 }
-.treeDetail59{
+#treeDetail59{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -783,7 +783,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance59 infinite;
 }
-.treeDetail60{
+#treeDetail60{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -796,7 +796,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance60 infinite;
 }
-.treeDetail61{
+#treeDetail61{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -809,7 +809,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance61 infinite;
 }
-.treeDetail62{
+#treeDetail62{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -822,7 +822,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance62 infinite;
 }
-.treeDetail63{
+#treeDetail63{
     position: absolute;
     width: 6px;
     height: 10px;
@@ -838,7 +838,7 @@ plan is 24 images to make a smooth 3s infinite animation.
 
 /* 206 184 186 */
 
-.treeDetail64{
+#treeDetail64{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -851,7 +851,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance64 infinite;
 }
-.treeDetail65{
+#treeDetail65{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -864,7 +864,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance65 infinite;
 }
-.treeDetail66{
+#treeDetail66{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -877,7 +877,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance66 infinite;
 }
-.treeDetail67{
+#treeDetail67{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -890,7 +890,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance67 infinite;
 }
-.treeDetail68{
+#treeDetail68{
     position: absolute;
     width: 4px;
     height: 10px;
@@ -903,7 +903,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance68 infinite;
 }
-.treeDetail69{
+#treeDetail69{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -916,7 +916,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance69 infinite;
 }
-.treeDetail70{
+#treeDetail70{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -929,7 +929,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance70 infinite;
 }
-.treeDetail71{
+#treeDetail71{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -942,7 +942,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance71 infinite;
 }
-.treeDetail72{
+#treeDetail72{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -955,7 +955,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance72 infinite;
 }
-.treeDetail73{
+#treeDetail73{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -968,7 +968,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance73 infinite;
 }
-.treeDetail74{
+#treeDetail74{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -981,7 +981,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance74 infinite;
 }
-.treeDetail75{
+#treeDetail75{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -994,7 +994,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance75 infinite;
 }
-.treeDetail76{
+#treeDetail76{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -1007,7 +1007,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance76 infinite;
 }
-.treeDetail77{
+#treeDetail77{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -1020,7 +1020,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance77 infinite;
 }
-.treeDetail78{
+#treeDetail78{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -1033,7 +1033,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance78 infinite;
 }
-.treeDetail79{
+#treeDetail79{
     position: absolute;
     width: 8.5px;
     height: 10px;
@@ -1046,7 +1046,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance79 infinite;
 }
-.treeDetail80{
+#treeDetail80{
     position: absolute;
     width: 8.5px;
     height: 10px;
@@ -1059,7 +1059,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance80 infinite;
 }
-.treeDetail81{
+#treeDetail81{
     position: absolute;
     width: 8.5px;
     height: 10px;
@@ -1072,7 +1072,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance81 infinite;
 }
-.treeDetail82{
+#treeDetail82{
     position: absolute;
     width: 8.5px;
     height: 10px;
@@ -1085,7 +1085,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance82 infinite;
 }
-.treeDetail83{
+#treeDetail83{
     position: absolute;
     width: 8.5px;
     height: 10px;
@@ -1098,7 +1098,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance83 infinite;
 }
-.treeDetail84{
+#treeDetail84{
     position: absolute;
     width: 10px;
     height: 10px;
@@ -1111,7 +1111,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance84 infinite;
 }
-.treeDetail85{
+#treeDetail85{
     position: absolute;
     width: 11px;
     height: 11px;
@@ -1124,7 +1124,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance85 infinite;
 }
-.treeDetail86{
+#treeDetail86{
     position: absolute;
     width: 11px;
     height: 11px;
@@ -1137,7 +1137,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance86 infinite;
 }
-.treeDetail87{
+#treeDetail87{
     position: absolute;
     width: 11px;
     height: 11px;
@@ -1150,7 +1150,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance87 infinite;
 }
-.treeDetail88{
+#treeDetail88{
     position: absolute;
     width: 11px;
     height: 15px;
@@ -1163,7 +1163,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance88 infinite;
 }
-.treeDetail89{
+#treeDetail89{
     position: absolute;
     width: 11px;
     height: 18px;
@@ -1176,7 +1176,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance89 infinite;
 }
-.treeDetail90{
+#treeDetail90{
     position: absolute;
     width: 11px;
     height: 18px;
@@ -1189,7 +1189,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance90 infinite;
 }
-.treeDetail91{
+#treeDetail91{
     position: absolute;
     width: 11px;
     height: 16px;
@@ -1202,7 +1202,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance91 infinite;
 }
-.treeDetail92{
+#treeDetail92{
     position: absolute;
     width: 16px;
     height: 10px;
@@ -1215,7 +1215,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance92 infinite;
 }
-.treeDetail93{
+#treeDetail93{
     position: absolute;
     width: 12px;
     height: 14px;
@@ -1228,7 +1228,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance93 infinite;
 }
-.treeDetail94{
+#treeDetail94{
     position: absolute;
     width: 21px;
     height: 14px;
@@ -1241,7 +1241,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance94 infinite;
 }
-.treeDetail95{
+#treeDetail95{
     position: absolute;
     width: 21px;
     height: 14px;
@@ -1254,7 +1254,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance95 infinite;
 }
-.treeDetail96{
+#treeDetail96{
     position: absolute;
     width: 21px;
     height: 14px;
@@ -1267,7 +1267,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance96 infinite;
 }
-.treeDetail97{
+#treeDetail97{
     position: absolute;
     width: 3px;
     height: 14px;
@@ -1280,7 +1280,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance97 infinite;
 }
-.treeDetail98{
+#treeDetail98{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -1293,7 +1293,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance98 infinite;
 }
-.treeDetail99{
+#treeDetail99{
     position: absolute;
     width: 21px;
     height: 14px;
@@ -1306,7 +1306,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance99 infinite;
 }
-.treeDetail100{
+#treeDetail100{
     position: absolute;
     width: 18px;
     height: 12px;
@@ -1319,7 +1319,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance100 infinite;
 }
-.treeDetail101{
+#treeDetail101{
     position: absolute;
     width: 18px;
     height: 12px;
@@ -1332,7 +1332,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance101 infinite;
 }
-.treeDetail102{
+#treeDetail102{
     position: absolute;
     width: 16px;
     height: 10px;
@@ -1345,7 +1345,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance102 infinite;
 }
-.treeDetail103{
+#treeDetail103{
     position: absolute;
     width: 16px;
     height: 10px;
@@ -1358,7 +1358,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance103 infinite;
 }
-.treeDetail104{
+#treeDetail104{
     position: absolute;
     width: 16px;
     height: 14px;
@@ -1371,7 +1371,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance104 infinite;
 }
-.treeDetail105{
+#treeDetail105{
     position: absolute;
     width: 16px;
     height: 14px;
@@ -1384,7 +1384,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance105 infinite;
 }
-.treeDetail106{
+#treeDetail106{
     position: absolute;
     width: 16px;
     height: 14px;
@@ -1397,7 +1397,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance106 infinite;
 }
-.treeDetail107{
+#treeDetail107{
     position: absolute;
     width: 12px;
     height: 14px;
@@ -1410,7 +1410,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance107 infinite;
 }
-.treeDetail108{
+#treeDetail108{
     position: absolute;
     width: 12px;
     height: 4px;
@@ -1423,7 +1423,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance108 infinite;
 }
-.treeDetail109{
+#treeDetail109{
     position: absolute;
     width: 14px;
     height: 10px;
@@ -1436,7 +1436,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance109 infinite;
 }
-.treeDetail110{
+#treeDetail110{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -1449,7 +1449,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance110 infinite;
 }
-.treeDetail111{
+#treeDetail111{
     position: absolute;
     width: 14px;
     height: 12px;
@@ -1462,7 +1462,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance111 infinite;
 }
-.treeDetail112{
+#treeDetail112{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1475,7 +1475,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance112 infinite;
 }
-.treeDetail113{
+#treeDetail113{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1488,7 +1488,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance113 infinite;
 }
-.treeDetail114{
+#treeDetail114{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1501,7 +1501,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance114 infinite;
 }
-.treeDetail115{
+#treeDetail115{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1514,7 +1514,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance115 infinite;
 }
-.treeDetail116{
+#treeDetail116{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1527,7 +1527,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance116 infinite;
 }
-.treeDetail117{
+#treeDetail117{
     position: absolute;
     width: 14px;
     height: 14px;
@@ -1540,7 +1540,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance117 infinite;
 }
-.treeDetail118{
+#treeDetail118{
     position: absolute;
     width: 14px;
     height: 12px;
@@ -1553,7 +1553,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance118 infinite;
 }
-.treeDetail119{
+#treeDetail119{
     position: absolute;
     width: 14px;
     height: 6px;
@@ -1566,7 +1566,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance119 infinite;
 }
-.treeDetail120{
+#treeDetail120{
     position: absolute;
     width: 14px;
     height: 12px;
@@ -1579,7 +1579,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance120 infinite;
 }
-.treeDetail121{
+#treeDetail121{
     position: absolute;
     width: 14px;
     height: 12px;
@@ -1592,7 +1592,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance121 infinite;
 }
-.treeDetail122{
+#treeDetail122{
     position: absolute;
     width: 15px;
     height: 14px;
@@ -1605,7 +1605,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance122 infinite;
 }
-.treeDetail123{
+#treeDetail123{
     position: absolute;
     width: 15px;
     height: 13px;
@@ -1618,7 +1618,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance123 infinite;
 }
-.treeDetail124{
+#treeDetail124{
     position: absolute;
     width: 15px;
     height: 13px;
@@ -1631,7 +1631,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance124 infinite;
 }
-.treeDetail125{
+#treeDetail125{
     position: absolute;
     width: 15px;
     height: 13px;
@@ -1644,7 +1644,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance125 infinite;
 }
-.treeDetail126{
+#treeDetail126{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -1657,7 +1657,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance126 infinite;
 }
-.treeDetail127{
+#treeDetail127{
     position: absolute;
     width: 10px;
     height: 16px;
@@ -1670,7 +1670,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance127 infinite;
 }
-.treeDetail128{
+#treeDetail128{
     position: absolute;
     width: 10px;
     height: 20px;
@@ -1683,7 +1683,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance128 infinite;
 }
-.treeDetail129{
+#treeDetail129{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -1696,7 +1696,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance129 infinite;
 }
-.treeDetail130{
+#treeDetail130{
     position: absolute;
     width: 10px;
     height: 20px;
@@ -1709,7 +1709,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance130 infinite;
 }
-.treeDetail131{
+#treeDetail131{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -1722,7 +1722,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance131 infinite;
 }
-.treeDetail132{
+#treeDetail132{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -1735,7 +1735,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance132 infinite;
 }
-.treeDetail133{
+#treeDetail133{
     position: absolute;
     width: 10px;
     height: 12px;
@@ -1748,7 +1748,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance133 infinite;
 }
-.treeDetail134{
+#treeDetail134{
     position: absolute;
     width: 10px;
     height: 12px;
@@ -1761,7 +1761,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance134 infinite;
 }
-.treeDetail135{
+#treeDetail135{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -1774,7 +1774,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance135 infinite;
 }
-.treeDetail136{
+#treeDetail136{
     position: absolute;
     width: 7px;
     height: 10px;
@@ -1787,7 +1787,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance136 infinite;
 }
-.treeDetail137{
+#treeDetail137{
     position: absolute;
     width: 5px;
     height: 10px;
@@ -1800,7 +1800,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance137 infinite;
 }
-.treeDetail138{
+#treeDetail138{
     position: absolute;
     width: 3px;
     height: 10px;
@@ -1813,7 +1813,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance138 infinite;
 }
-.treeDetail139{
+#treeDetail139{
     position: absolute;
     width: 3px;
     height: 10px;
@@ -1826,7 +1826,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance139 infinite;
 }
-.treeDetail140{
+#treeDetail140{
     position: absolute;
     width: 5px;
     height: 9px;
@@ -1839,7 +1839,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance140 infinite;
 }
-.treeDetail141{
+#treeDetail141{
     position: absolute;
     width: 5px;
     height: 9px;
@@ -1852,7 +1852,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance141 infinite;
 }
-.treeDetail142{
+#treeDetail142{
     position: absolute;
     width: 7px;
     height: 12px;
@@ -1865,7 +1865,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance142 infinite;
 }
-.treeDetail143{
+#treeDetail143{
     position: absolute;
     width: 10px;
     height: 16px;
@@ -1878,7 +1878,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance143 infinite;
 }
-.treeDetail144{
+#treeDetail144{
     position: absolute;
     width: 10px;
     height: 16px;
@@ -1891,7 +1891,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance144 infinite;
 }
-.treeDetail145{
+#treeDetail145{
     position: absolute;
     width: 5px;
     height: 16px;
@@ -1904,7 +1904,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance145 infinite;
 }
-.treeDetail146{
+#treeDetail146{
     position: absolute;
     width: 10px;
     height: 13px;
@@ -1917,7 +1917,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance146 infinite;
 }
-.treeDetail147{
+#treeDetail147{
     position: absolute;
     width: 16px;
     height: 9px;
@@ -1930,7 +1930,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance147 infinite;
 }
-.treeDetail148{
+#treeDetail148{
     position: absolute;
     width: 16px;
     height: 9px;
@@ -1943,7 +1943,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance148 infinite;
 }
-.treeDetail149{
+#treeDetail149{
     position: absolute;
     width: 16px;
     height: 8px;
@@ -1956,7 +1956,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance149 infinite;
 }
-.treeDetail150{
+#treeDetail150{
     position: absolute;
     width: 16px;
     height: 6px;
@@ -1969,7 +1969,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance150 infinite;
 }
-.treeDetail151{
+#treeDetail151{
     position: absolute;
     width: 16px;
     height: 4px;
@@ -1982,7 +1982,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance151 infinite;
 }
-.treeDetail152{
+#treeDetail152{
     position: absolute;
     width: 8px;
     height: 6px;
@@ -1995,7 +1995,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance152 infinite;
 }
-.treeDetail153{
+#treeDetail153{
     position: absolute;
     width: 10px;
     height: 8px;
@@ -2008,7 +2008,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance153 infinite;
 }
-.treeDetail154{
+#treeDetail154{
     position: absolute;
     width: 12px;
     height: 9px;
@@ -2021,7 +2021,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance154 infinite;
 }
-.treeDetail155{
+#treeDetail155{
     position: absolute;
     width: 11px;
     height: 8px;
@@ -2034,7 +2034,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance155 infinite;
 }
-.treeDetail156{
+#treeDetail156{
     position: absolute;
     width: 11px;
     height: 8px;
@@ -2047,7 +2047,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance156 infinite;
 }
-.treeDetail157{
+#treeDetail157{
     position: absolute;
     width: 8px;
     height: 11px;
@@ -2060,7 +2060,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance157 infinite;
 }
-.treeDetail158{
+#treeDetail158{
     position: absolute;
     width: 8px;
     height: 11px;
@@ -2073,7 +2073,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance158 infinite;
 }
-.treeDetail159{
+#treeDetail159{
     position: absolute;
     width: 10px;
     height: 13px;
@@ -2086,7 +2086,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance159 infinite;
 }
-.treeDetail160{
+#treeDetail160{
     position: absolute;
     width: 10px;
     height: 13px;
@@ -2099,7 +2099,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance160 infinite;
 }
-.treeDetail161{
+#treeDetail161{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2112,7 +2112,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance161 infinite;
 }
-.treeDetail162{
+#treeDetail162{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2125,7 +2125,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance162 infinite;
 }
-.treeDetail163{
+#treeDetail163{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2138,7 +2138,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance163 infinite;
 }
-.treeDetail164{
+#treeDetail164{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2151,7 +2151,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance164 infinite;
 }
-.treeDetail165{
+#treeDetail165{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2164,7 +2164,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance165 infinite;
 }
-.treeDetail166{
+#treeDetail166{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2177,7 +2177,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance166 infinite;
 }
-.treeDetail167{
+#treeDetail167{
     position: absolute;
     width: 12px;
     height: 16px;
@@ -2190,7 +2190,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance167 infinite;
 }
-.treeDetail168{
+#treeDetail168{
     position: absolute;
     width: 12px;
     height: 16px;
@@ -2203,7 +2203,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance168 infinite;
 }
-.treeDetail169{
+#treeDetail169{
     position: absolute;
     width: 12px;
     height: 16px;
@@ -2216,7 +2216,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance169 infinite;
 }
-.treeDetail170{
+#treeDetail170{
     position: absolute;
     width: 12px;
     height: 16px;
@@ -2229,7 +2229,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance170 infinite;
 }
-.treeDetail171{
+#treeDetail171{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2242,7 +2242,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance171 infinite;
 }
-.treeDetail172{
+#treeDetail172{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2258,7 +2258,7 @@ plan is 24 images to make a smooth 3s infinite animation.
 
 /* continuing from discontinuation near the bottom */
 
-.treeDetail173{
+#treeDetail173{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2271,7 +2271,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 150;
     animation: 3s dance173 infinite;
 }
-.treeDetail174{
+#treeDetail174{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2284,7 +2284,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 150;
     animation: 3s dance174 infinite;
 }
-.treeDetail175{
+#treeDetail175{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2297,7 +2297,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 150;
     animation: 3s dance175 infinite;
 }
-.treeDetail176{
+#treeDetail176{
     position: absolute;
     width: 6px;
     height: 10px;
@@ -2310,7 +2310,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance176 infinite;
 }
-.treeDetail177{
+#treeDetail177{
     position: absolute;
     width: 6px;
     height: 10px;
@@ -2323,7 +2323,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance177 infinite;
 }
-.treeDetail178{
+#treeDetail178{
     position: absolute;
     width: 8px;
     height: 12px;
@@ -2336,7 +2336,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance178 infinite;
 }
-.treeDetail179{
+#treeDetail179{
     position: absolute;
     width: 8px;
     height: 12px;
@@ -2349,7 +2349,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance179 infinite;
 }
-.treeDetail180{
+#treeDetail180{
     position: absolute;
     width: 10px;
     height: 14px;
@@ -2362,7 +2362,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance180 infinite;
 }
-.treeDetail181{
+#treeDetail181{
     position: absolute;
     width: 8px;
     height: 12px;
@@ -2375,7 +2375,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance181 infinite;
 }
-.treeDetail182{
+#treeDetail182{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -2388,7 +2388,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance182 infinite;
 }
-.treeDetail183{
+#treeDetail183{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -2401,7 +2401,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance183 infinite;
 }
-.treeDetail184{
+#treeDetail184{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -2414,7 +2414,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance184 infinite;
 }
-.treeDetail185{
+#treeDetail185{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -2427,7 +2427,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance185 infinite;
 }
-.treeDetail186{
+#treeDetail186{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -2440,7 +2440,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance186 infinite;
 }
-.treeDetail187{
+#treeDetail187{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -2453,7 +2453,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance187 infinite;
 }
-.treeDetail188{
+#treeDetail188{
     position: absolute;
     width: 2px;
     height: 8px;
@@ -2466,7 +2466,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance188 infinite;
 }
-.treeDetail189{
+#treeDetail189{
     position: absolute;
     width: 4px;
     height: 8px;
@@ -2479,7 +2479,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance189 infinite;
 }
-.treeDetail190{
+#treeDetail190{
     position: absolute;
     width: 22px;
     height: 28px;
@@ -2492,7 +2492,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance190 infinite;
 }
-.treeDetail191{
+#treeDetail191{
     position: absolute;
     width: 22px;
     height: 28px;
@@ -2505,7 +2505,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance191 infinite;
 }
-.treeDetail192{
+#treeDetail192{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2518,7 +2518,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance192 infinite;
 }
-.treeDetail193{
+#treeDetail193{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2531,7 +2531,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance193 infinite;
 }
-.treeDetail194{
+#treeDetail194{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2544,7 +2544,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance194 infinite;
 }
-.treeDetail195{
+#treeDetail195{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2557,7 +2557,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance195 infinite;
 }
-.treeDetail196{
+#treeDetail196{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2570,7 +2570,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance196 infinite;
 }
-.treeDetail197{
+#treeDetail197{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2583,7 +2583,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance197 infinite;
 }
-.treeDetail198{
+#treeDetail198{
     position: absolute;
     width: 13px;
     height: 28px;
@@ -2596,7 +2596,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance198 infinite;
 }
-.treeDetail199{
+#treeDetail199{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2609,7 +2609,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance199 infinite;
 }
-.treeDetail200{
+#treeDetail200{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2622,7 +2622,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance200 infinite;
 }
-.treeDetail201{
+#treeDetail201{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2635,7 +2635,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance201 infinite;
 }
-.treeDetail202{
+#treeDetail202{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2648,7 +2648,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance202 infinite;
 }
-.treeDetail203{
+#treeDetail203{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2661,7 +2661,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance203 infinite;
 }
-.treeDetail204{
+#treeDetail204{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2674,7 +2674,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance204 infinite;
 }
-.treeDetail205{
+#treeDetail205{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2687,7 +2687,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance205 infinite;
 }
-.treeDetail206{
+#treeDetail206{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2700,7 +2700,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance206 infinite;
 }
-.treeDetail207{
+#treeDetail207{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2713,7 +2713,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance207 infinite;
 }
-.treeDetail208{
+#treeDetail208{
     position: absolute;
     width: 120px;
     height: 90px;
@@ -2725,7 +2725,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance208 infinite;
 }
-.treeDetail209{
+#treeDetail209{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2738,7 +2738,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance209 infinite;
 }
-.treeDetail210{
+#treeDetail210{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2751,7 +2751,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance210 infinite;
 }
-.treeDetail211{
+#treeDetail211{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2764,7 +2764,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance211 infinite;
 }
-.treeDetail212{
+#treeDetail212{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2777,7 +2777,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance212 infinite;
 }
-.treeDetail213{
+#treeDetail213{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2790,7 +2790,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance213 infinite;
 }
-.treeDetail214{
+#treeDetail214{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2803,7 +2803,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance214 infinite;
 }
-.treeDetail215{
+#treeDetail215{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2816,7 +2816,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance215 infinite;
 }
-.treeDetail216{
+#treeDetail216{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2829,7 +2829,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance216 infinite;
 }
-.treeDetail217{
+#treeDetail217{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2842,7 +2842,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance217 infinite;
 }
-.treeDetail218{
+#treeDetail218{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2855,7 +2855,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance218 infinite;
 }
-.treeDetail219{
+#treeDetail219{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2868,7 +2868,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance219 infinite;
 }
-.treeDetail220{
+#treeDetail220{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2881,7 +2881,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance220 infinite;
 }
-.treeDetail221{
+#treeDetail221{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2894,7 +2894,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance221 infinite;
 }
-.treeDetail222{
+#treeDetail222{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2907,7 +2907,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance222 infinite;
 }
-.treeDetail223{
+#treeDetail223{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2920,7 +2920,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance223 infinite;
 }
-.treeDetail224{
+#treeDetail224{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2933,7 +2933,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance224 infinite;
 }
-.treeDetail225{
+#treeDetail225{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2946,7 +2946,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance225 infinite;
 }
-.treeDetail226{
+#treeDetail226{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2959,7 +2959,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance226 infinite;
 }
-.treeDetail227{
+#treeDetail227{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2972,7 +2972,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance227 infinite;
 }
-.treeDetail228{
+#treeDetail228{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2985,7 +2985,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance228 infinite;
 }
-.treeDetail229{
+#treeDetail229{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -2998,7 +2998,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance229 infinite;
 }
-.treeDetail230{
+#treeDetail230{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3011,7 +3011,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance230 infinite;
 }
-.treeDetail231{
+#treeDetail231{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3024,7 +3024,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance231 infinite;
 }
-.treeDetail232{
+#treeDetail232{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3037,7 +3037,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance232 infinite;
 }
-.treeDetail233{
+#treeDetail233{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3050,7 +3050,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance233 infinite;
 }
-.treeDetail234{
+#treeDetail234{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3063,7 +3063,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance234 infinite;
 }
-.treeDetail235{
+#treeDetail235{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3076,7 +3076,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance235 infinite;
 }
-.treeDetail236{
+#treeDetail236{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3089,7 +3089,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance236 infinite;
 }
-.treeDetail237{
+#treeDetail237{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3102,7 +3102,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance237 infinite;
 }
-.treeDetail238{
+#treeDetail238{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3115,7 +3115,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance238 infinite;
 }
-.treeDetail239{
+#treeDetail239{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3128,7 +3128,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance239 infinite;
 }
-.treeDetail240{
+#treeDetail240{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3141,7 +3141,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance240 infinite;
 }
-.treeDetail241{
+#treeDetail241{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3154,7 +3154,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance241 infinite;
 }
-.treeDetail242{
+#treeDetail242{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3167,7 +3167,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance242 infinite;
 }
-.treeDetail243{
+#treeDetail243{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3180,7 +3180,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance243 infinite;
 }
-.treeDetail244{
+#treeDetail244{
     position: absolute;
     width: 18px;
     height: 28px;
@@ -3193,7 +3193,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance244 infinite;
 }
-.treeDetail245{
+#treeDetail245{
     position: absolute;
     width: 120px;
     height: 100px;
@@ -3206,7 +3206,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance245 infinite;
 }
-.treeDetail246{
+#treeDetail246{
     position: absolute;
     width: 120px;
     height: 100px;
@@ -3219,7 +3219,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance246 infinite;
 }
-.treeDetail247{
+#treeDetail247{
     position: absolute;
     width: 120px;
     height: 100px;
@@ -3232,7 +3232,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance247 infinite;
 }
-.treeDetail248{
+#treeDetail248{
     position: absolute;
     width: 80px;
     height: 80px;
@@ -3245,7 +3245,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance248 infinite;
 }
-.treeDetail249{
+#treeDetail249{
     position: absolute;
     width: 40px;
     height: 120px;
@@ -3258,7 +3258,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance249 infinite;
 }
-.treeDetail250{
+#treeDetail250{
     position: absolute;
     width: 60px;
     height: 60px;
@@ -3271,7 +3271,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance250 infinite;
 }
-.treeDetail251{
+#treeDetail251{
     position: absolute;
     width: 80px;
     height: 60px;
@@ -3284,7 +3284,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 100;
     animation: 3s dance251 infinite;
 }
-.treeDetail252{
+#treeDetail252{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3297,7 +3297,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance252 infinite;
 }
-.treeDetail253{
+#treeDetail253{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3310,7 +3310,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance253 infinite;
 }
-.treeDetail254{
+#treeDetail254{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3323,7 +3323,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance254 infinite;
 }
-.treeDetail255{
+#treeDetail255{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3336,7 +3336,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance255 infinite;
 }
-.treeDetail256{
+#treeDetail256{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3349,7 +3349,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance256 infinite;
 }
-.treeDetail257{
+#treeDetail257{
     position: absolute;
     width: 20px;
     height: 20px;
@@ -3362,7 +3362,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance257 infinite;
 }
-.treeDetail258{
+#treeDetail258{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3375,7 +3375,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance258 infinite;
 }
-.treeDetail259{
+#treeDetail259{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3388,7 +3388,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance259 infinite;
 }
-.treeDetail260{
+#treeDetail260{
     position: absolute;
     width: 16px;
     height: 12px;
@@ -3401,7 +3401,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance260 infinite;
 }
-.treeDetail261{
+#treeDetail261{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3414,7 +3414,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance261 infinite;
 }
-.treeDetail262{
+#treeDetail262{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3427,7 +3427,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance262 infinite;
 }
-.treeDetail263{
+#treeDetail263{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3440,7 +3440,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance263 infinite;
 }
-.treeDetail264{
+#treeDetail264{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3453,7 +3453,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance264 infinite;
 }
-.treeDetail265{
+#treeDetail265{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3466,7 +3466,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance265 infinite;
 }
-.treeDetail266{
+#treeDetail266{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3479,7 +3479,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance266 infinite;
 }
-.treeDetail267{
+#treeDetail267{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3492,7 +3492,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance267 infinite;
 }
-.treeDetail268{
+#treeDetail268{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3505,7 +3505,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance268 infinite;
 }
-.treeDetail269{
+#treeDetail269{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3518,7 +3518,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance269 infinite;
 }
-.treeDetail270{
+#treeDetail270{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3531,7 +3531,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance270 infinite;
 }
-.treeDetail271{
+#treeDetail271{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3544,7 +3544,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance271 infinite;
 }
-.treeDetail272{
+#treeDetail272{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3557,7 +3557,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance272 infinite;
 }
-.treeDetail273{
+#treeDetail273{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3570,7 +3570,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance273 infinite;
 }
-.treeDetail274{
+#treeDetail274{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3583,7 +3583,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance274 infinite;
 }
-.treeDetail275{
+#treeDetail275{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3596,7 +3596,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance275 infinite;
 }
-.treeDetail276{
+#treeDetail276{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3609,7 +3609,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance276 infinite;
 }
-.treeDetail277{
+#treeDetail277{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3622,7 +3622,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance277 infinite;
 }
-.treeDetail278{
+#treeDetail278{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3635,7 +3635,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance278 infinite;
 }
-.treeDetail279{
+#treeDetail279{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3648,7 +3648,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance279 infinite;
 }
-.treeDetail280{
+#treeDetail280{
     position: absolute;
     width: 12px;
     height: 10px;
@@ -3661,7 +3661,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance280 infinite;
 }
-.treeDetail280{
+#treeDetail280{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3674,7 +3674,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance280 infinite;
 }
-.treeDetail281{
+#treeDetail281{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3687,7 +3687,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance281 infinite;
 }
-.treeDetail282{
+#treeDetail282{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3700,7 +3700,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance282 infinite;
 }
-.treeDetail283{
+#treeDetail283{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3713,7 +3713,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance283 infinite;
 }
-.treeDetail284{
+#treeDetail284{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3726,7 +3726,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance284 infinite;
 }
-.treeDetail285{
+#treeDetail285{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3739,7 +3739,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance285 infinite;
 }
-.treeDetail286{
+#treeDetail286{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3752,7 +3752,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 50;
     animation: 3s dance286 infinite;
 }
-.treeDetail287{
+#treeDetail287{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3765,7 +3765,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance287 infinite;
 }
-.treeDetail288{
+#treeDetail288{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3778,7 +3778,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance288 infinite;
 }
-.treeDetail289{
+#treeDetail289{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3791,7 +3791,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance289 infinite;
 }
-.treeDetail290{
+#treeDetail290{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3804,7 +3804,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance290 infinite;
 }
-.treeDetail291{
+#treeDetail291{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3817,7 +3817,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance291 infinite;
 }
-.treeDetail292{
+#treeDetail292{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3830,7 +3830,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance292 infinite;
 }
-.treeDetail293{
+#treeDetail293{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3843,7 +3843,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance293 infinite;
 }
-.treeDetail294{
+#treeDetail294{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3856,7 +3856,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance294 infinite;
 }
-.treeDetail295{
+#treeDetail295{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3869,7 +3869,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance295 infinite;
 }
-.treeDetail296{
+#treeDetail296{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3882,7 +3882,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance296 infinite;
 }
-.treeDetail297{
+#treeDetail297{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3895,7 +3895,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance297 infinite;
 }
-.treeDetail298{
+#treeDetail298{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3908,7 +3908,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance298 infinite;
 }
-.treeDetail299{
+#treeDetail299{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3921,7 +3921,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance299 infinite;
 }
-.treeDetail300{
+#treeDetail300{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3934,7 +3934,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance300 infinite;
 }
-.treeDetail301{
+#treeDetail301{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3947,7 +3947,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance301 infinite;
 }
-.treeDetail302{
+#treeDetail302{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3960,7 +3960,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance302 infinite;
 }
-.treeDetail303{
+#treeDetail303{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3973,7 +3973,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance303 infinite;
 }
-.treeDetail304{
+#treeDetail304{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3986,7 +3986,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance304 infinite;
 }
-.treeDetail305{
+#treeDetail305{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -3999,7 +3999,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance305 infinite;
 }
-.treeDetail306{
+#treeDetail306{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4012,7 +4012,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance306 infinite;
 }
-.treeDetail307{
+#treeDetail307{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4025,7 +4025,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance307 infinite;
 }
-.treeDetail308{
+#treeDetail308{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4038,7 +4038,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance308 infinite;
 }
-.treeDetail309{
+#treeDetail309{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4051,7 +4051,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance309 infinite;
 }
-.treeDetail310{
+#treeDetail310{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4064,7 +4064,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance310 infinite;
 }
-.treeDetail311{
+#treeDetail311{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4077,7 +4077,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance311 infinite;
 }
-.treeDetail312{
+#treeDetail312{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4090,7 +4090,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance312 infinite;
 }
-.treeDetail313{
+#treeDetail313{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4103,7 +4103,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance313 infinite;
 }
-.treeDetail314{
+#treeDetail314{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4116,7 +4116,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance314 infinite;
 }
-.treeDetail315{
+#treeDetail315{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4129,7 +4129,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance315 infinite;
 }
-.treeDetail316{
+#treeDetail316{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4142,7 +4142,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance316 infinite;
 }
-.treeDetail317{
+#treeDetail317{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4155,7 +4155,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance317 infinite;
 }
-.treeDetail318{
+#treeDetail318{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4168,7 +4168,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance318 infinite;
 }
-.treeDetail319{
+#treeDetail319{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4181,7 +4181,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance319 infinite;
 }
-.treeDetail320{
+#treeDetail320{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4194,7 +4194,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance320 infinite;
 }
-.treeDetail321{
+#treeDetail321{
     position: absolute;
     width: 14px;
     height: 16px;
@@ -4207,7 +4207,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance321 infinite;
 }
-.treeDetail322{
+#treeDetail322{
     position: absolute;
     width: 8px;
     height: 19px;
@@ -4220,7 +4220,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance322 infinite;
 }
-.treeDetail323{
+#treeDetail323{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4233,7 +4233,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance323 infinite;
 }
-.treeDetail324{
+#treeDetail324{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4246,7 +4246,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance324 infinite;
 }
-.treeDetail325{
+#treeDetail325{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4259,7 +4259,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance325 infinite;
 }
-.treeDetail326{
+#treeDetail326{
     position: absolute;
     width: 25px;
     height: 30px;
@@ -4272,7 +4272,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance326 infinite;
 }
-.treeDetail327{
+#treeDetail327{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4285,7 +4285,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance327 infinite;
 }
-.treeDetail328{
+#treeDetail328{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4298,7 +4298,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance328 infinite;
 }
-.treeDetail329{
+#treeDetail329{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4311,7 +4311,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance329 infinite;
 }
-.treeDetail330{
+#treeDetail330{
     position: absolute;
     width: 15px;
     height: 16px;
@@ -4324,7 +4324,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance330 infinite;
 }
-.treeDetail331{
+#treeDetail331{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4337,7 +4337,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance331 infinite;
 }
-.treeDetail332{
+#treeDetail332{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4350,7 +4350,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance332 infinite;
 }
-.treeDetail333{
+#treeDetail333{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4363,7 +4363,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance333 infinite;
 }
-.treeDetail334{
+#treeDetail334{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4376,7 +4376,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance334 infinite;
 }
-.treeDetail335{
+#treeDetail335{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4389,7 +4389,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance335 infinite;
 }
-.treeDetail336{
+#treeDetail336{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4402,7 +4402,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance336 infinite;
 }
-.treeDetail337{
+#treeDetail337{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4415,7 +4415,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance337 infinite;
 }
-.treeDetail338{
+#treeDetail338{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4428,7 +4428,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance338 infinite;
 }
-.treeDetail339{
+#treeDetail339{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4441,7 +4441,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance339 infinite;
 }
-.treeDetail340{
+#treeDetail340{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4454,7 +4454,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance340 infinite;
 }
-.treeDetail341{
+#treeDetail341{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4467,7 +4467,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance341 infinite;
 }
-.treeDetail342{
+#treeDetail342{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4480,7 +4480,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance342 infinite;
 }
-.treeDetail343{
+#treeDetail343{
     position: absolute;
     width: 12px;
     height: 19px;
@@ -4493,7 +4493,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance343 infinite;
 }
-.treeDetail344{
+#treeDetail344{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4506,7 +4506,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance344 infinite;
 }
-.treeDetail345{
+#treeDetail345{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4519,7 +4519,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance345 infinite;
 }
-.treeDetail346{
+#treeDetail346{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4532,7 +4532,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance346 infinite;
 }
-.treeDetail347{
+#treeDetail347{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4545,7 +4545,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance347 infinite;
 }
-.treeDetail348{
+#treeDetail348{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4558,7 +4558,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance348 infinite;
 }
-.treeDetail349{
+#treeDetail349{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4571,7 +4571,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance349 infinite;
 }
-.treeDetail350{
+#treeDetail350{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4584,7 +4584,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance350 infinite;
 }
-.treeDetail351{
+#treeDetail351{
     position: absolute;
     width: 100px;
     height: 60px;
@@ -4597,7 +4597,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance351 infinite;
 }
-.treeDetail352{
+#treeDetail352{
     position: absolute;
     width: 80px;
     height: 60px;
@@ -4610,7 +4610,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance352 infinite;
 }
-.treeDetail353{
+#treeDetail353{
     position: absolute;
     width: 30px;
     height: 20px;
@@ -4623,7 +4623,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance353 infinite;
 }
-.treeDetail354{
+#treeDetail354{
     position: absolute;
     width: 20px;
     height: 16px;
@@ -4636,7 +4636,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance354 infinite;
 }
-.treeDetail355{
+#treeDetail355{
     position: absolute;
     width: 20px;
     height: 16px;
@@ -4649,7 +4649,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance355 infinite;
 }
-.treeDetail356{
+#treeDetail356{
     position: absolute;
     width: 20px;
     height: 16px;
@@ -4662,7 +4662,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance356 infinite;
 }
-.treeDetail357{
+#treeDetail357{
     position: absolute;
     width: 20px;
     height: 16px;
@@ -4675,7 +4675,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance357 infinite;
 }
-.treeDetail358{
+#treeDetail358{
     position: absolute;
     width: 20px;
     height: 16px;
@@ -4688,7 +4688,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance358 infinite;
 }
-.treeDetail359{
+#treeDetail359{
     position: absolute;
     width: 24px;
     height: 19px;
@@ -4701,7 +4701,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance359 infinite;
 }
-.treeDetail360{
+#treeDetail360{
     position: absolute;
     width: 24px;
     height: 19px;
@@ -4714,7 +4714,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance360 infinite;
 }
-.treeDetail361{
+#treeDetail361{
     position: absolute;
     width: 24px;
     height: 19px;
@@ -4727,7 +4727,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance361 infinite;
 }
-.treeDetail362{
+#treeDetail362{
     position: absolute;
     width: 24px;
     height: 19px;
@@ -4740,7 +4740,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance362 infinite;
 }
-.treeDetail363{
+#treeDetail363{
     position: absolute;
     width: 20px;
     height: 12px;
@@ -4753,7 +4753,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance363 infinite;
 }
-.treeDetail364{
+#treeDetail364{
     position: absolute;
     width: 20px;
     height: 12px;
@@ -4766,7 +4766,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance364 infinite;
 }
-.treeDetail365{
+#treeDetail365{
     position: absolute;
     width: 13px;
     height: 16px;
@@ -4779,7 +4779,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance365 infinite;
 }
-.treeDetail366{
+#treeDetail366{
     position: absolute;
     width: 13px;
     height: 16px;
@@ -4792,7 +4792,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance366 infinite;
 }
-.treeDetail367{
+#treeDetail367{
     position: absolute;
     width: 13px;
     height: 16px;
@@ -4805,7 +4805,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance367 infinite;
 }
-.treeDetail368{
+#treeDetail368{
     position: absolute;
     width: 16px;
     height: 20px;
@@ -4818,7 +4818,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance368 infinite;
 }
-.treeDetail369{
+#treeDetail369{
     position: absolute;
     width: 16px;
     height: 20px;
@@ -4831,7 +4831,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance369 infinite;
 }
-.treeDetail370{
+#treeDetail370{
     position: absolute;
     width: 16px;
     height: 20px;
@@ -4844,7 +4844,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance370 infinite;
 }
-.treeDetail371{
+#treeDetail371{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4857,7 +4857,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance371 infinite;
 }
-.treeDetail372{
+#treeDetail372{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4870,7 +4870,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance372 infinite;
 }
-.treeDetail373{
+#treeDetail373{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4883,7 +4883,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance373 infinite;
 }
-.treeDetail374{
+#treeDetail374{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4896,7 +4896,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance374 infinite;
 }
-.treeDetail375{
+#treeDetail375{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4909,7 +4909,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance375 infinite;
 }
-.treeDetail376{
+#treeDetail376{
     position: absolute;
     width: 8px;
     height: 20px;
@@ -4922,7 +4922,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance376 infinite;
 }
-.treeDetail377{
+#treeDetail377{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -4935,7 +4935,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance377 infinite;
 }
-.treeDetail378{
+#treeDetail378{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -4948,7 +4948,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance378 infinite;
 }
-.treeDetail379{
+#treeDetail379{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -4961,7 +4961,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance379 infinite;
 }
-.treeDetail380{
+#treeDetail380{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -4974,7 +4974,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance380 infinite;
 }
-.treeDetail381{
+#treeDetail381{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -4987,7 +4987,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance381 infinite;
 }
-.treeDetail382{
+#treeDetail382{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5000,7 +5000,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance382 infinite;
 }
-.treeDetail383{
+#treeDetail383{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5013,7 +5013,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance383 infinite;
 }
-.treeDetail384{
+#treeDetail384{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5026,7 +5026,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance384 infinite;
 }
-.treeDetail385{
+#treeDetail385{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5039,7 +5039,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance385 infinite;
 }
-.treeDetail386{
+#treeDetail386{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5052,7 +5052,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance386 infinite;
 }
-.treeDetail387{
+#treeDetail387{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5065,7 +5065,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance387 infinite;
 }
-.treeDetail388{
+#treeDetail388{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5078,7 +5078,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance388 infinite;
 }
-.treeDetail389{
+#treeDetail389{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5091,7 +5091,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance389 infinite;
 }
-.treeDetail390{
+#treeDetail390{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5104,7 +5104,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance390 infinite;
 }
-.treeDetail391{
+#treeDetail391{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5117,7 +5117,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance390 infinite;
 }
-.treeDetail391{
+#treeDetail391{
     position: absolute;
     width: 14px;
     height: 17px;
@@ -5130,7 +5130,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance391 infinite;
 }
-.treeDetail392{
+#treeDetail392{
     position: absolute;
     width: 50px;
     height: 20px;
@@ -5143,7 +5143,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance392 infinite;
 }
-.treeDetail393{
+#treeDetail393{
     position: absolute;
     width: 50px;
     height: 20px;
@@ -5156,7 +5156,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance393 infinite;
 }
-.treeDetail394{
+#treeDetail394{
     position: absolute;
     width: 50px;
     height: 20px;
@@ -5169,7 +5169,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 300;
     animation: 3s dance394 infinite;
 }
-.treeDetail395{
+#treeDetail395{
     position: absolute;
     width: 50px;
     height: 20px;
@@ -5183,7 +5183,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     animation: 3s dance395 infinite;
 }
 /* final details of frame 1/24 (5000 lines!!!) :)*/
-.treeDetail396{
+#treeDetail396{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5196,7 +5196,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance396 infinite;
 }
-.treeDetail397{
+#treeDetail397{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5209,7 +5209,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance397 infinite;
 }
-.treeDetail398{
+#treeDetail398{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5222,7 +5222,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance398 infinite;
 }
-.treeDetail399{
+#treeDetail399{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5235,7 +5235,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance399 infinite;
 }
-.treeDetail400{
+#treeDetail400{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5248,7 +5248,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance400 infinite;
 }
-.treeDetail401{
+#treeDetail401{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5261,7 +5261,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance401 infinite;
 }
-.treeDetail402{
+#treeDetail402{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5274,7 +5274,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance402 infinite;
 }
-.treeDetail403{
+#treeDetail403{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5287,7 +5287,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance403 infinite;
 }
-.treeDetail404{
+#treeDetail404{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5300,7 +5300,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance404 infinite;
 }
-.treeDetail405{
+#treeDetail405{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5313,7 +5313,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance405 infinite;
 }
-.treeDetail406{
+#treeDetail406{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5326,7 +5326,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance406 infinite;
 }
-.treeDetail407{
+#treeDetail407{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5339,7 +5339,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance407 infinite;
 }
-.treeDetail408{
+#treeDetail408{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5352,7 +5352,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance408 infinite;
 }
-.treeDetail409{
+#treeDetail409{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5365,7 +5365,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance409 infinite;
 }
-.treeDetail410{
+#treeDetail410{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5378,7 +5378,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance410 infinite;
 }
-.treeDetail411{
+#treeDetail411{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5391,7 +5391,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance411 infinite;
 }
-.treeDetail412{
+#treeDetail412{
     position: absolute;
     width: 12px;
     height: 15px;
@@ -5404,7 +5404,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance412 infinite;
 }
-.treeDetail413{
+#treeDetail413{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5417,7 +5417,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance413 infinite;
 }
-.treeDetail414{
+#treeDetail414{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5430,7 +5430,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance414 infinite;
 }
-.treeDetail415{
+#treeDetail415{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5443,7 +5443,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance415 infinite;
 }
-.treeDetail416{
+#treeDetail416{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5456,7 +5456,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance416 infinite;
 }
-.treeDetail417{
+#treeDetail417{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5469,7 +5469,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance417 infinite;
 }
-.treeDetail418{
+#treeDetail418{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5482,7 +5482,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance418 infinite;
 }
-.treeDetail419{
+#treeDetail419{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5495,7 +5495,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance419 infinite;
 }
-.treeDetail420{
+#treeDetail420{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5508,7 +5508,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance420 infinite;
 }
-.treeDetail421{
+#treeDetail421{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5521,7 +5521,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 250;
     animation: 3s dance421 infinite;
 }
-.treeDetail422{
+#treeDetail422{
     position: absolute;
     width: 10px;
     height: 18px;
@@ -5535,7 +5535,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     animation: 3s dance422 infinite;
 }
 /* final little details near the top */
-.treeDetail423{
+#treeDetail423{
     position: absolute;
     width: 6px;
     height: 18px;
@@ -5548,7 +5548,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance423 infinite;
 }
-.treeDetail424{
+#treeDetail424{
     position: absolute;
     width: 6px;
     height: 18px;
@@ -5561,7 +5561,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance424 infinite;
 }
-.treeDetail425{
+#treeDetail425{
     position: absolute;
     width: 10px;
     height: 12px;
@@ -5574,7 +5574,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance425 infinite;
 }
-.treeDetail426{
+#treeDetail426{
     position: absolute;
     width: 10px;
     height: 12px;
@@ -5587,7 +5587,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance426 infinite;
 }
-.treeDetail427{
+#treeDetail427{
     position: absolute;
     width: 5px;
     height: 6px;
@@ -5600,7 +5600,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance427 infinite;
 }
-.treeDetail428{
+#treeDetail428{
     position: absolute;
     width: 5px;
     height: 6px;
@@ -5613,7 +5613,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance428 infinite;
 }
-.treeDetail429{
+#treeDetail429{
     position: absolute;
     width: 5px;
     height: 6px;
@@ -5626,7 +5626,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance429 infinite;
 }
-.treeDetail430{
+#treeDetail430{
     position: absolute;
     width: 5px;
     height: 6px;
@@ -5639,7 +5639,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance430 infinite;
 }
-.treeDetail431{
+#treeDetail431{
     position: absolute;
     width: 3px;
     height: 6px;
@@ -5652,7 +5652,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance431 infinite;
 }
-.treeDetail432{
+#treeDetail432{
     position: absolute;
     width: 3px;
     height: 6px;
@@ -5665,7 +5665,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance432 infinite;
 }
-.treeDetail433{
+#treeDetail433{
     position: absolute;
     width: 3px;
     height: 6px;
@@ -5678,7 +5678,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance433 infinite;
 }
-.treeDetail434{
+#treeDetail434{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -5692,7 +5692,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     animation: 3s dance434 infinite;
 }
 /* . */
-.treeDetail435{
+#treeDetail435{
     position: absolute;
     width: 8px;
     height: 10px;
@@ -5705,7 +5705,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance435 infinite;
 }
-.treeDetail436{
+#treeDetail436{
     position: absolute;
     width: 4px;
     height: 10px;
@@ -5718,7 +5718,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance436 infinite;
 }
-.treeDetail437{
+#treeDetail437{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -5731,7 +5731,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance437 infinite;
 }
-.treeDetail438{
+#treeDetail438{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -5744,7 +5744,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance438 infinite;
 }
-.treeDetail439{
+#treeDetail439{
     position: absolute;
     width: 6px;
     height: 8px;
@@ -5757,7 +5757,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance439 infinite;
 }
-.treeDetail440{
+#treeDetail440{
     position: absolute;
     width: 4px;
     height: 8px;
@@ -5770,7 +5770,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance440 infinite;
 }
-.treeDetail441{
+#treeDetail441{
     position: absolute;
     width: 10px;
     height: 10px;
@@ -5783,7 +5783,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance441 infinite;
 }
-.treeDetail442{
+#treeDetail442{
     position: absolute;
     width: 8px;
     height: 6px;
@@ -5796,7 +5796,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance442 infinite;
 }
-.treeDetail443{
+#treeDetail443{
     position: absolute;
     width: 7px;
     height: 4px;
@@ -5809,7 +5809,7 @@ plan is 24 images to make a smooth 3s infinite animation.
     z-index: 200;
     animation: 3s dance443 infinite;
 }
-.treeDetail444{
+#treeDetail444{
     position: absolute;
     width: 7px;
     height: 4px;
@@ -5821,5 +5821,14 @@ plan is 24 images to make a smooth 3s infinite animation.
     transform: rotate(0deg);
     z-index: 200;
     animation: 3s dance444 infinite;
+}
+.saveButton{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    z-index: 9000;
+    top: 90%;
+    left: 90%;
 }
 
