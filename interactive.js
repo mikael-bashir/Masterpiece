@@ -19,7 +19,9 @@
 //
 // CHANGE WHENEVER ON A NEW FRAME
 //
-let divStates2 = {};
+let divStates3 = {};
+let currentDivState = divStates3;
+const currentFrameNumber = 3;
 //
 //
 //
@@ -86,8 +88,8 @@ function trackDivStateFromCustomDrag(div) {
   console.log(`State tracked for div ${id}: x = ${state.x}, y = ${state.y}, rotation = ${state.rotation}`);
 
   // Update the state of the div in the global dictionary (divStates1)
-  divStates1[id] = state;
-  console.log(`Updated divStates1:`, divStates1);
+  currentDivState[id] = state;
+  console.log(`Updated divStates${currentFrameNumber}:`, currentDivState);
 }
 
 // Function to track the state of a dragged div
@@ -230,7 +232,7 @@ document.querySelector('.saveButton').addEventListener('click', () => {
           'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-          divState: divStates1,
+          divState: currentDivState,
       }),
   })
   .then((response) => {
