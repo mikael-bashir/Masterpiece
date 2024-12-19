@@ -18,10 +18,10 @@
 
 // 
 // CHANGE WHENEVER ON A NEW FRAME
-// Working on frame 12 **
-let divStates10 = {};
-let currentDivState = divStates10;
-const currentFrameNumber = 10;
+// Working on frame 10 **
+let divStates8 = {};
+let currentDivState = divStates8;
+const currentFrameNumber = 8;
 //
 //
 //
