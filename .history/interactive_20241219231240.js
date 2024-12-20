@@ -16,12 +16,12 @@
 //     }
 // }
 
-// 6 frames left!
+// 7 frames left!
 // CHANGE WHENEVER ON A NEW FRAME
-// Working on frame 13 **
-let divStates11 = {};
-let currentDivState = divStates11;
-const currentFrameNumber = 11;
+// Working on frame 12 **
+let divStates10 = {};
+let currentDivState = divStates10;
+const currentFrameNumber = 10;
 //
 //
 //
